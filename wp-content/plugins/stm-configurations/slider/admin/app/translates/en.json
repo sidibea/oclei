@@ -1,0 +1,20 @@
+{
+  "SLIDER_SETTINGS": "Slider settings",
+  "LAYOUT": "Layout",
+  "SLIDES": "Slides",
+  "SLIDER_WIDTH": "Slider width",
+  "SLIDER_WIDTH_DESC" : "Set slider width in px",
+  "SLIDER_HEIGHT": "Slider height",
+  "SLIDER_HEIGHT_DESC" : "Set slider width in px",
+  "OTHER_SETTINGS" : "Other settings",
+  "MOBILE_HIDE": "Hide on mobile",
+  "MOBILE_HIDE_DESC" : "Hides the slider on mobile devices",
+  "HIDE_UNDER" : "Hide under",
+  "HIDE_UNDER_DESC" : "Hides the slider under the given value of browser width in pixels",
+  "SLIDE_BG": "Slide background",
+  "DURATION": "Duration",
+  "TRANSITION": "Transition",
+  "MISC": "Misc",
+  "ENABLE_OVERLAY" : "Enable overlay",
+  "OVERLAY" : "Overlay"
+}

@@ -1,0 +1,3 @@
+<?php
+$pearl_sidebars = array();
+$pearl_sidebars[1064] = '[vc_row][vc_column][stm_pages style="style_3" include="1036, 1089, 1102, 1080, 1068, 1109"][stm_button button_pos="fullwidth" button_icon_pos="left" button_icon="fa fa-skype" button_icon_class="custom" button_icon_color="#ffffff" button_icon_color_hover="#ffffff" button_icon_size="24" button_divider="divider" button_color="secondary" link="url:%2Fbeauty%2Fcontacts%2F|title:GOT%20A%20QUESTION%3F||" subtitle="Ask online" css=".vc_custom_1496898181746{margin-bottom: 30px !important;}"][stm_contacts_widget style="style_5" title="Contact Info" address=" 8008 Zürich, Switzerland Zollikerstrasse 82" phone="555 222 53 42, 555 222 48 28" email="info@stylemixthemes.com"][/vc_column][/vc_row]';

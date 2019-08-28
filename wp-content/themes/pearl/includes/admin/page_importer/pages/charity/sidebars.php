@@ -1,0 +1,3 @@
+<?php
+$pearl_sidebars = array();
+$pearl_sidebars[827] = '[vc_row][vc_column][vc_wp_archives options="count"][stm_media_gallery title="Gallery" num="6" size="80x80"][vc_wp_tagcloud title="Tags Cloud" taxonomy="post_tag"][vc_custom_heading text="Signup Newsletter" font_container="tag:h5|text_align:left" use_theme_fonts="yes"][vc_column_text][mc4wp_form id="751"][/vc_column_text][/vc_column][/vc_row]';

@@ -1,0 +1,118 @@
+control-generator {
+    display: block;
+    .stm_to__control_generator {
+        margin-top: 30px;
+        display: flex;
+        .stm_to__control-preview {
+            width: 100%;
+
+            .preview {
+                float: none;
+                max-width: 500px;
+                form {
+                    max-width: 300px;
+                }
+            }
+            &-wrapper {
+                display: flex;
+                align-items: center;
+                background-color: #fff;
+                padding: 20px;
+                margin-right: 10px;
+                width: 100%;
+                .btn {
+                    transition: all .3s ease;
+                    margin: 0 15px;
+                }
+            }
+        }
+    }
+
+    form {
+        > .form-group {
+            > button[type=submit] {
+                &:after {
+                    color: #fff !important;
+                }
+            }
+        }
+    }
+
+
+    .page-numbers {
+        .page-numbers {
+            padding: 0 !important;
+            display: flex !important;
+            align-items: center;
+            justify-content: center;
+            i {
+                &:before {
+                    content: "\e97e" !important;
+                }
+            }
+        }
+    }
+    .stm_pagination {
+
+
+        .next.page-numbers {
+            a {
+
+            }
+            * {
+                transition: all .3s ease;
+            }
+        }
+        &_style_2 {
+            ul.page-numbers {
+                .stm_next {
+                    i {
+                        margin-left: 0 !important;
+                    }
+                }
+            }
+        }
+        &_style_3 {
+            ul.page-numbers {
+                .stm_next {
+                    i {
+                        line-height: 30px !important;
+                    }
+                }
+            }
+        }
+        &_style_4 {
+            ul.page-numbers {
+                .stm_next {
+                    i {
+                        line-height: 30px !important;
+                    }
+                }
+            }
+        }
+        &_style_5 {
+            ul.page-numbers {
+                .stm_next {
+                    i {
+                        line-height: 30px !important;
+                    }
+                }
+            }
+        }
+     }
+
+
+    .stm_errorpage {
+        //transform: scale(.5, .5);
+        width: 150%;
+        border: 1px solid #eee;
+        zoom: 50%;
+        transform-origin: left top;
+        a {
+            text-decoration: none;
+        }
+    }
+}
+blockquote {
+    border-left: 5px solid #eee;
+}

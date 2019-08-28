@@ -1,0 +1,5 @@
+<?php
+$pearl_sidebars = array();
+$pearl_sidebars[1010] = '[vc_row][vc_column][vc_wp_search][vc_widget_sidebar sidebar_id="shop_sidebar"][vc_single_image image="729" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" link="#"][/vc_column][/vc_row]';
+$pearl_sidebars[784] = '[vc_row][vc_column][vc_wp_search][vc_wp_categories style="style_2"][vc_wp_archives options="dropdown"][vc_wp_tagcloud taxonomy="category"][vc_column_text][mc4wp_form id="831"][/vc_column_text][vc_single_image image="729" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" link="#"][/vc_column][/vc_row]';
+$pearl_sidebars[728] = '[vc_row][vc_column][vc_wp_search][vc_wp_tagcloud taxonomy="event_category"][vc_column_text][mc4wp_form id="831"][/vc_column_text][vc_single_image image="729" img_size="full" alignment="center" onclick="custom_link" img_link_target="_blank" link="#"][/vc_column][/vc_row]';

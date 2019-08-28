@@ -1,0 +1,35 @@
+[
+  {
+    "default": [
+      "recent-posts-2"
+    ],
+    "footer": [
+      "stm_text-2",
+      "contacts-2"
+    ],
+    "shop_sidebar": [
+      "woocommerce_product_categories-2",
+      "woocommerce_layered_nav-3",
+      "woocommerce_price_filter-2"
+    ]
+  },
+  {
+    "recent-posts": {
+      "2": {
+        "title": "",
+        "number": 5,
+        "show_date": false
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_layered_nav": {
+      "3": {
+        "title": "Filter by",
+        "attribute": "color",
+        "display_type": "list",
+        "query_type": "and"
+      },
+      "_multiwidget": 1
+    }
+  }
+]

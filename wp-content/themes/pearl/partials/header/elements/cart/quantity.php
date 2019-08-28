@@ -1,0 +1,1 @@
+<span class="cart__quantity-badge mbc"><?php echo WC()->cart->get_cart_contents_count(); ?></span>

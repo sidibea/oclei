@@ -1,0 +1,111 @@
+<div ng-class="'stm_to_builder-element__popup stm_to_builder-element_' + vm.element.type + '__popup'">
+    <h4 ng-bind="vm.element.label"></h4>
+    <md-tabs>
+        <md-tab label="main">
+            <div class="input-group">
+                <span class="input-group-addon">City</span>
+                <input
+                        type="text"
+                        class="form-control"
+                        ng-model="vm.element.value.city"
+                        placeholder="Enter city">
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">
+                    Units
+                </span>
+                <select ng-model="vm.element.value.units" class="form-control">
+                    <option value="{{unit.name}}" ng-repeat="unit in vm.units track by unit.name">{{unit.symbol}}</option>
+                </select>
+            </div>
+
+            <md-button class="md-raised" ng-click="vm.getWeather()">
+                Check Weather
+            </md-button>
+
+            <input type="text" disabled ng-model="vm.weather">
+
+        </md-tab>
+        <!--Responsive-->
+        <md-tab label="responsive">
+            <div class="stm_to-builder__margins" layout>
+                <div flex="33">
+                    <div class="stm_to-builder__margins-box default">
+                        <h5>Desktop Margins</h5>
+                        <input type="text"
+                               ng-model="vm.element.margins.default.top"
+                               placeholder="-"
+                               class="top">
+                        <input type="text"
+                               ng-model="vm.element.margins.default.right"
+                               placeholder="-"
+                               class="right">
+                        <input type="text"
+                               ng-model="vm.element.margins.default.bottom"
+                               placeholder="-"
+                               class="bottom">
+                        <input type="text"
+                               ng-model="vm.element.margins.default.left"
+                               placeholder="-"
+                               class="left">
+                    </div>
+                </div>
+                <span flex="5"></span>
+                <div flex="33">
+                    <div class="stm_to-builder__margins-box tablet">
+                        <h5>Tablet Margins</h5>
+                        <input type="text"
+                               ng-model="vm.element.margins.tablet.top"
+                               placeholder="-"
+                               class="top">
+                        <input type="text"
+                               ng-model="vm.element.margins.tablet.right"
+                               placeholder="-"
+                               class="right">
+                        <input type="text"
+                               ng-model="vm.element.margins.tablet.bottom"
+                               placeholder="-"
+                               class="bottom">
+                        <input type="text"
+                               ng-model="vm.element.margins.tablet.left"
+                               placeholder="-"
+                               class="left">
+                    </div>
+                </div>
+                <span flex="5"></span>
+                <div flex="33">
+                    <div class="stm_to-builder__margins-box mobile">
+                        <h5>Mobile Margins</h5>
+                        <input type="text"
+                               ng-model="vm.element.margins.mobile.top"
+                               placeholder="-"
+                               class="top">
+                        <input type="text"
+                               ng-model="vm.element.margins.mobile.right"
+                               placeholder="-"
+                               class="right">
+                        <input type="text"
+                               ng-model="vm.element.margins.mobile.bottom"
+                               placeholder="-"
+                               class="bottom">
+                        <input type="text"
+                               ng-model="vm.element.margins.mobile.left"
+                               placeholder="-"
+                               class="left">
+                    </div>
+                </div>
+            </div>
+        </md-tab>
+    </md-tabs>
+
+    <md-dialog-actions layout="row">
+        <md-button class="md-raised" ng-click="vm.cancel()">
+            Cancel
+        </md-button>
+        <span flex></span>
+        <md-button class="md-raised md-primary" ng-click="vm.saveElement(vm.element)">
+            Save
+        </md-button>
+    </md-dialog-actions>
+</div>

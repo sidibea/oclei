@@ -1,0 +1,1 @@
+<?php get_template_part('partials/content/stm_albums/layout/layout_1');

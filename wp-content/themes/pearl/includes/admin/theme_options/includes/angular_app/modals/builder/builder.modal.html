@@ -1,0 +1,11 @@
+<div class="stm_to-builder__elements">
+        <h4>Select Element</h4>
+        <div class="stm_to-builder__elements-row">
+            <div
+                class="stm_to-builder__elements__element"
+                ng-repeat="element in ::vm.elements track by $index"
+                ng-click="vm.selectElement(element)">
+                <span>{{::element.label}}</span>
+            </div>
+        </div>
+</div>

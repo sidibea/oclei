@@ -1,0 +1,40 @@
+#wplc_chatmsg {
+    width: 90% !important;
+}
+
+.modern.file_sharing_ratings_enabled .wdt-emoji-picker {
+    right: 75px !important;
+}
+
+.modern.rating_enabled .wdt-emoji-picker {
+    right: 54px !important;
+}
+
+.modern.file_sharing_enabled .wdt-emoji-picker {
+    right: 24px !important;
+}
+
+.classic.file_sharing_ratings_enabled .wdt-emoji-picker {
+    right: 72px !important;
+}
+
+.classic.rating_enabled .wdt-emoji-picker {
+    right: 54px !important;
+}
+
+.classic.file_sharing_enabled .wdt-emoji-picker {
+    right: 24px !important;
+}
+
+.modern.emoji_only .wdt-emoji-popup.open {
+    transform: translateX(-75px);
+}
+
+.modern.file_sharing_enabled .wdt-emoji-popup.open {
+    transform: translateX(-60px);
+}
+
+
+
+
+

@@ -1,0 +1,162 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M64 128v0c-35.346 0-64 28.654-64 64v640 0c0 35.346 28.654 64 64 64h896v0c35.346 0 64-28.654 64-64v-640 0c0-35.346-28.654-64-64-64h-896zM128 256h768v512h-768v-512zM192 256l320 256 320-256h64v64l-384 320-384-320v-64h64z"
+        ],
+        "attrs": [],
+        "grid": 0,
+        "tags": [
+          "envelope"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 9,
+        "id": 3,
+        "name": "lawyer_envelope",
+        "prevSize": 32,
+        "code": 28672
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M704 1024h-640c-35.346 0-64-28.654-64-64v0-896c0-35.346 28.654-64 64-64v0h640c35.346 0 64 28.654 64 64v0 896c0 35.346-28.654 64-64 64v0zM320 960h128v-128h-128v128zM640 128h-512v640h512v-640z"
+        ],
+        "attrs": [],
+        "width": 768,
+        "grid": 0,
+        "tags": [
+          "iphone"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 10,
+        "id": 2,
+        "name": "lawyer_iphone",
+        "prevSize": 32,
+        "code": 28673
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 0c-0.286-0.001-0.624-0.001-0.962-0.001-246.399 0-446.238 199.346-447.038 445.557l-0 0.076c0 353.6 321.216 531.648 416.512 572.928 7.54 3.361 16.334 5.335 25.585 5.376l0.015 0c1.92 0 3.712-0.384 5.632-0.512s3.968 0.576 5.824 0.576c9.265-0.033 18.061-2.008 26.012-5.539l-0.412 0.163c95.296-41.28 416.576-219.328 416.576-572.928-0.8-246.323-200.668-445.696-447.102-445.696-0.226 0-0.452 0-0.677 0.001l0.035-0zM517.632 889.216l-5.632-3.008-5.696 2.944c-82.048-41.472-314.304-181.952-314.304-443.584 0-176.731 143.269-320 320-320s320 143.269 320 320v0c0 261.696-232.256 402.112-314.368 443.584zM512 320c-70.692 0-128 57.308-128 128s57.308 128 128 128c70.692 0 128-57.308 128-128v0c0-70.692-57.308-128-128-128v0 0z"
+        ],
+        "attrs": [],
+        "grid": 0,
+        "tags": [
+          "pin"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 11,
+        "id": 1,
+        "name": "lawyer_pin",
+        "prevSize": 32,
+        "code": 28674
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 2
+    },
+    {
+      "icon": {
+        "paths": [
+          "M960 895.36l-128 0.64v128h-640v-128l-128-0.64c-35.346 0-64-28.654-64-64v0-576c0-35.346 28.654-64 64-64v0h128v-191.36h640v191.36h128c35.346 0 64 28.654 64 64v0 576c0 35.346-28.654 64-64 64v0zM320 896h384v-128h-384v128zM704 128h-384v64h384v-64zM896 319.36h-768v448l64 0.64v-128h640v128l64-0.64v-448zM704 448h64v64h-64v-64zM576 448h64v64h-64v-64z"
+        ],
+        "attrs": [],
+        "grid": 0,
+        "tags": [
+          "printer"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 12,
+        "id": 0,
+        "name": "lawyer_printer",
+        "prevSize": 32,
+        "code": 28675
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 3
+    },
+    {
+      "icon": {
+        "paths": [
+          "M1763.556 512.341l-511.431 511.659-80.782-80.441 374.898-374.727h-1546.24v-113.778h1546.24l-374.898-374.784 80.782-80.441 511.431 512-0.569 0.341z"
+        ],
+        "attrs": [],
+        "width": 1764,
+        "grid": 0,
+        "tags": [
+          "lawyer_arrow"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 3,
+        "id": 4,
+        "name": "lawyer_arrow",
+        "prevSize": 32,
+        "code": 28676
+      },
+      "setIdx": 1,
+      "setId": 0,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "stmicons"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showCodes": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "stmicon-",
+      "metadata": {
+        "fontFamily": "stmicons",
+        "majorVersion": 1,
+        "minorVersion": 0
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false,
+      "resetPoint": 28672,
+      "showSelector": true,
+      "showMetrics": true,
+      "showMetadata": true,
+      "cssVars": true,
+      "cssVarsFormat": "scss"
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215
+    },
+    "historySize": 50,
+    "gridSize": 16
+  }
+}

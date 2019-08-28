@@ -1,0 +1,180 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-14 10:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: paypal/paypal.php:90 paypal/paypal.php:321
+msgid "New participant for [event]"
+msgstr ""
+
+#: paypal/paypal.php:91 paypal/paypal.php:322
+msgid ""
+"A new member wants to join your [event]\n"
+"\t\t\t\tParticipant Info:\n"
+"\t\t        Name: [name]\n"
+"\t\t\t\tEmail: [email]\n"
+"\t\t\t\tPhone: [phone]\n"
+"\t\t\t\tMessage: [message]"
+msgstr ""
+
+#: paypal/paypal.php:97 paypal/paypal.php:328
+msgid "Confirmation of your pariticipation in the [event]"
+msgstr ""
+
+#: paypal/paypal.php:237
+msgid "Site Donation"
+msgstr ""
+
+#: post-types/donation.class.php:96
+#, php-format
+msgid "Your amount (%s)"
+msgstr ""
+
+#: post-types/donation.class.php:135
+msgid "Address *"
+msgstr ""
+
+#: post-types/donation.class.php:142
+msgid "Additional Note"
+msgstr ""
+
+#: post-types/donation.class.php:148
+msgid "Donate"
+msgstr ""
+
+#: post-types/donation.class.php:161
+msgid "You are donating to:"
+msgstr ""
+
+#: post-types/donation.class.php:239
+msgid "Donate now"
+msgstr ""
+
+#: post-types/donation.class.php:251
+msgid "Completed"
+msgstr ""
+
+#: post-types/donation.class.php:253
+msgid "Ended"
+msgstr ""
+
+#: post-types/donation.class.php:265
+msgid "donated of"
+msgstr ""
+
+#: post-types/donation.class.php:300
+msgid "days left to achieve target"
+msgstr ""
+
+#: post-types/donation.class.php:317
+msgid "No days left to achieve target"
+msgstr ""
+
+#: post-types/donation.class.php:319
+msgid "Thank you!"
+msgstr ""
+
+#: post-types/donation.class.php:339
+msgid "day, days"
+msgstr ""
+
+#: post-types/donation.class.php:340
+msgid "hour, hours"
+msgstr ""
+
+#: post-types/donation.class.php:342 post-types/donation.class.php:344
+msgid "left to achieve target"
+msgstr ""
+
+#: post-types/event_participant_handler.php:28
+msgid "Please enter your name"
+msgstr ""
+
+#: post-types/event_participant_handler.php:36
+msgid "Please enter your email"
+msgstr ""
+
+#: post-types/event_participant_handler.php:47
+msgid "Please accept Terms and Conditions"
+msgstr ""
+
+#: post-types/event_participant_handler.php:83
+#, php-format
+msgid "%s joined the event - %s"
+msgstr ""
+
+#: post-types/event_participant_handler.php:85
+msgid "New participant"
+msgstr ""
+
+#: post-types/event_participant_handler.php:91
+#, php-format
+msgid "You have joined the event - %s"
+msgstr ""
+
+#: post-types/event_participant_handler.php:93
+#: post-types/event_participant_handler.php:108
+msgid "You have joined the event"
+msgstr ""
+
+#: post-types/event_participant_handler.php:119
+#, php-format
+msgid "Event %s you joined will start in a day"
+msgstr ""
+
+#: post-types/event_participant_handler.php:121
+msgid "Event will start soon!"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:74
+msgid "Upload/Select Fontello Font Zip"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:76
+msgid "Insert Fonts Zip File"
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:215
+msgid ""
+"Using this feature is reserved for Super Admins. You unfortunately don't "
+"have the necessary permissions."
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:320
+msgid ""
+"It seems that the font with the same name is already exists! Please upload "
+"the font with different name."
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:421
+msgid "Unable to add this font. Please try again."
+msgstr ""
+
+#: iconloader/stm-custom-icons.php:615 iconloader/stm-custom-icons.php:616
+msgid "Pearl Icon Manager"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "STM Configurations"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://stylemixthemes.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Stylemix Themes"
+msgstr ""

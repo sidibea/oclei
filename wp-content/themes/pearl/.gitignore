@@ -1,0 +1,5 @@
+node_modules
+bower_components
+includes/admin/theme_options/assets
+assets/css
+.DS_Store

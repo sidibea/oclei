@@ -1,0 +1,160 @@
+<div ng-class="'stm_to_builder-element__popup stm_to_builder-element_' + vm.element.type + '__popup'">
+    <h4 ng-bind="vm.element.label"></h4>
+    <md-tabs>
+        <md-tab label="main">
+
+
+            <div class="stm_to-builder__icon_picker">
+                <i class="fa fa-close" ng-click="icon = ''"></i>
+
+                <div icons-list icon="vm.element.data.icon">
+                    <div class="stm_to-builder__open-icons">
+                        <i ng-class="(vm.element.data.icon) ? vm.element.data.icon : 'fa fa-plus'" class="select-icon"></i>
+                        <span ng-bind="vm.element.data.icon ? vm.element.data.icon : 'Select Icon'"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="input-group">
+                <span class="input-group-addon">Line 1</span>
+                <input
+                    type="text"
+                    class="form-control"
+                    ng-model="vm.element.data.title"
+                    placeholder="Icon box title">
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">Line 2</span>
+                <input
+                    type="text"
+                    class="form-control"
+                    ng-model="vm.element.data.description"
+                    placeholder="Icon box description">
+
+                <span class="input-group-addon">
+                    Use as link?
+                    <input type="checkbox" ng-model="vm.element.data.line2AsLink">
+                </span>
+            </div>
+
+            <div class="input-group" ng-if="vm.element.data.line2AsLink">
+                <span class="input-group-addon">Line 2 url</span>
+                <div class="stm_admin__select">
+                    <select ng-model="vm.element.data.line2PageId" class="form-control">
+                        <option ng-repeat="(page_id, name) in ::vm.pages track by page_id" ng-value="page_id">{{name}}</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="input-group" ng-if="vm.element.data.line2AsLink">
+                <span class="input-group-addon">Modal width</span>
+                <input type="number" ng-model="vm.element.data.modal2Width" class="form-control">
+            </div>
+
+
+            <div class="input-group">
+                <span class="input-group-addon">Custom text color</span>
+                <input colorpicker="hex" ng-model="vm.element.data.textColor" class="form-control">
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">Custom icon color</span>
+                <input colorpicker="hex" ng-model="vm.element.data.iconColor" class="form-control">
+            </div>
+
+            <div class="input-group">
+                <span class="input-group-addon">Select style</span>
+                <div class="stm_admin__select">
+                    <select ng-model="vm.element.data.style" class="form-control">
+                        <option ng-repeat="(value, name) in ::vm.styles" ng-value="value">{{name}}</option>
+                    </select>
+                </div>
+            </div>
+
+        </md-tab>
+        <!--Responsive-->
+        <md-tab label="responsive">
+            <div class="stm_to-builder__margins" layout>
+                <div flex="33">
+                    <div class="stm_to-builder__margins-box default">
+                        <h5>Desktop Margins</h5>
+                        <input type="text"
+                               ng-model="vm.element.margins.default.top"
+                               placeholder="-"
+                               class="top">
+                        <input type="text"
+                               ng-model="vm.element.margins.default.right"
+                               placeholder="-"
+                               class="right">
+                        <input type="text"
+                               ng-model="vm.element.margins.default.bottom"
+                               placeholder="-"
+                               class="bottom">
+                        <input type="text"
+                               ng-model="vm.element.margins.default.left"
+                               placeholder="-"
+                               class="left">
+                    </div>
+                </div>
+                <span flex="5"></span>
+                <div flex="33">
+                    <div class="stm_to-builder__margins-box tablet">
+                        <h5>Tablet Margins</h5>
+                        <input type="text"
+                               ng-model="vm.element.margins.tablet.top"
+                               placeholder="-"
+                               class="top">
+                        <input type="text"
+                               ng-model="vm.element.margins.tablet.right"
+                               placeholder="-"
+                               class="right">
+                        <input type="text"
+                               ng-model="vm.element.margins.tablet.bottom"
+                               placeholder="-"
+                               class="bottom">
+                        <input type="text"
+                               ng-model="vm.element.margins.tablet.left"
+                               placeholder="-"
+                               class="left">
+                    </div>
+                </div>
+                <span flex="5"></span>
+                <div flex="33">
+                    <div class="stm_to-builder__margins-box mobile">
+                        <h5>Mobile Margins</h5>
+                        <input type="text"
+                               ng-model="vm.element.margins.mobile.top"
+                               placeholder="-"
+                               class="top">
+                        <input type="text"
+                               ng-model="vm.element.margins.mobile.right"
+                               placeholder="-"
+                               class="right">
+                        <input type="text"
+                               ng-model="vm.element.margins.mobile.bottom"
+                               placeholder="-"
+                               class="bottom">
+                        <input type="text"
+                               ng-model="vm.element.margins.mobile.left"
+                               placeholder="-"
+                               class="left">
+                    </div>
+                </div>
+
+            </div>
+        </md-tab>
+    </md-tabs>
+
+    <md-dialog-actions layout="row">
+        <md-button class="md-raised" ng-click="vm.cancel()">
+            Cancel
+        </md-button>
+        <span flex></span>
+        <md-button class="md-raised md-primary" ng-click="vm.saveElement(vm.element)">
+            Save
+        </md-button>
+    </md-dialog-actions>
+
+</div>

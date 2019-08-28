@@ -1,0 +1,62 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">stm_projects</custom-type>
+    <custom-type translate="1">stm_events</custom-type>
+    <custom-type translate="1">stm_participants</custom-type>
+    <custom-type translate="1">stm_speakers</custom-type>
+    <custom-type translate="1">stm_services</custom-type>
+    <custom-type translate="1">stm_testimonials</custom-type>
+    <custom-type translate="1">stm_stories</custom-type>
+    <custom-type translate="1">stm_sidebars</custom-type>
+    <custom-type translate="1">stm_vacancies</custom-type>
+    <custom-type translate="1">stm_donations</custom-type>
+    <custom-type translate="1">stm_donors</custom-type>
+    <custom-type translate="1">stm_slider</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">project_category</taxonomy>
+    <taxonomy translate="1">event_category</taxonomy>
+    <taxonomy translate="1">service_category</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="translate">_featured</custom-field>
+    <custom-field action="translate">page_bc</custom-field>
+    <custom-field action="translate">page_title_box_bg_image</custom-field>
+    <custom-field action="translate">page_title_button_text</custom-field>
+    <custom-field action="translate">_megamenu</custom-field>
+    <custom-field action="translate">date_start</custom-field>
+    <custom-field action="translate">date_end</custom-field>
+    <custom-field action="translate">participants_num</custom-field>
+    <custom-field action="translate">date_start_time</custom-field>
+    <custom-field action="translate">date_end_time</custom-field>
+    <custom-field action="translate">address</custom-field>
+    <custom-field action="translate">cur_participants</custom-field>
+    <custom-field action="translate">latitude</custom-field>
+    <custom-field action="translate">longitude</custom-field>
+    <custom-field action="translate">position</custom-field>
+    <custom-field action="translate">job</custom-field>
+    <custom-field action="translate">sticky_sidebar</custom-field>
+    <custom-field action="translate">location</custom-field>
+    <custom-field action="translate">vacancy_icon</custom-field>
+    <custom-field action="translate">department</custom-field>
+    <custom-field action="translate">job_type</custom-field>
+    <custom-field action="translate">education</custom-field>
+    <custom-field action="translate">compensation</custom-field>
+    <custom-field action="translate">client</custom-field>
+    <custom-field action="translate">started</custom-field>
+    <custom-field action="translate">completed</custom-field>
+    <custom-field action="translate">value</custom-field>
+    <custom-field action="translate">category</custom-field>
+    <custom-field action="translate">target_amount</custom-field>
+    <custom-field action="translate">raised_amount</custom-field>
+    <custom-field action="translate">page_title_breadcrumbs</custom-field>
+    <custom-field action="translate">donors_count</custom-field>
+    <custom-field action="translate">service_price</custom-field>
+    <custom-field action="translate">date_start_timestamp</custom-field>
+    <custom-field action="translate">slide_template</custom-field>
+    <custom-field action="translate">stm_before</custom-field>
+    <custom-field action="translate">stm_after</custom-field>
+    <custom-field action="translate">stm_intro</custom-field>
+    <custom-field action="translate">phone</custom-field>
+  </custom-fields>
+</wpml-config>

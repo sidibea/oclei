@@ -1,0 +1,91 @@
+[
+  {
+    "default": [
+      "search-2",
+      "recent-posts-2",
+      "recent-comments-2",
+      "archives-2",
+      "categories-2",
+      "meta-2"
+    ],
+    "footer": [
+      "stm_text-2",
+      "stm_custom_menu-2",
+      "stm_text-4",
+      "mc4wp_form_widget-2"
+    ]
+  },
+  {
+    "search": {
+      "2": {
+        "title": ""
+      },
+      "_multiwidget": 1
+    },
+    "recent-posts": {
+      "2": {
+        "title": "",
+        "number": 5
+      },
+      "_multiwidget": 1
+    },
+    "recent-comments": {
+      "2": {
+        "title": "",
+        "number": 5
+      },
+      "_multiwidget": 1
+    },
+    "archives": {
+      "2": {
+        "title": "",
+        "count": 0,
+        "dropdown": 0
+      },
+      "_multiwidget": 1
+    },
+    "categories": {
+      "2": {
+        "title": "",
+        "count": 0,
+        "hierarchical": 0,
+        "dropdown": 0
+      },
+      "_multiwidget": 1
+    },
+    "meta": {
+      "2": {
+        "title": ""
+      },
+      "_multiwidget": 1
+    },
+    "stm_text": {
+      "2": {
+        "title": "",
+        "text": "<a href=\"\/\" title=\"Pearl Furniture - Wordpress Theme\"><img src=\"\/wp-content\/themes\/pearl\/assets\/img\/pearl_logo_light.svg\" style=\"margin-bottom: 21px;\" \/><\/a>\r\n<p style=\"margin-bottom:20px; line-height: 20px; color: #fff !important;\">Fusce interdum ipsum egestas urna amet fringilla.<\/p>",
+        "filter": false,
+        "socials": true
+      },
+      "4": {
+        "title": "",
+        "text": "Address: 1024 Infinity Ave\r\nSacramento, California\r\n95014, United States\r\n\r\n<a href=\"#\" style=\"color:#fff; margin-top: 26px; display:block;\">View on map  <i class=\"stmicon-furniture_arrow_right mtc\" style=\"position:relative; top: 2px; margin-left: 5px; display: inline-block;\"><\/i><\/a>",
+        "filter": true,
+        "socials": false
+      },
+      "_multiwidget": 1
+    },
+    "stm_custom_menu": {
+      "2": {
+        "style": "style_3",
+        "nav_menu": 20
+      },
+      "_multiwidget": 1
+    },
+    "mc4wp_form_widget": {
+      "2": {
+        "title": "Newsletter"
+      },
+      "_multiwidget": 1
+    }
+  }
+]

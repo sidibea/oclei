@@ -1,0 +1,5 @@
+<?php
+$pearl_sidebars = array();
+$pearl_sidebars[1390] = '[vc_row][vc_column][stm_pages style="style_2" include="1162, 1345, 1417, 1518, 1452, 1427, 1455" title="Pages"][vc_wp_search][vc_wp_tagcloud taxonomy="post_tag"][vc_wp_posts number="5" show_date="1"][/vc_column][/vc_row]';
+$pearl_sidebars[1381] = '[vc_row][vc_column][vc_widget_sidebar sidebar_id="default"][/vc_column][/vc_row]';
+$pearl_sidebars[1165] = '[vc_row][vc_column][stm_pages style="style_4" include="1162, 1345, 1417, 1518, 1452, 1427, 1455" title="Pages"][stm_button button_style="outline" button_pos="fullwidth" button_icon_pos="left" button_icon="stmicon-list" button_icon_size="33" link="url:%2Fmedicall%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F06%2FENERGY-STAR.pdf|title:Company%20presentation|target:%20_blank|" subtitle="2.3 mb, PDF" css=".vc_custom_1496915594569{margin-bottom: 35px !important;}"][stm_contacts_widget style="style_6" title="Contacts" address="51 Uxbridge Road, San Francisco W7 3PX" phone="+1 945 825 763 +1 945 800 150" email="service@dentalsf.com" open_hours="Mon - Sat 8.00 - 18.00 Sunday CLOSED"][/vc_column][/vc_row]';

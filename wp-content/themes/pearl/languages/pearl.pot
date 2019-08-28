@@ -1,0 +1,5452 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-22 14:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the template
+msgid "Coming soon page"
+msgstr ""
+
+#: comments.php:32
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:35
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: vc_templates/stm_album_info.php:44
+msgid "Get The Album on"
+msgstr ""
+
+#: vc_templates/stm_contact.php:29
+msgid "Phone: "
+msgstr ""
+
+#: vc_templates/stm_contact.php:34
+msgid "Email: "
+msgstr ""
+
+#: vc_templates/stm_contact.php:42
+msgid "Skype: "
+msgstr ""
+
+#: vc_templates/stm_countdown.php:22 vc_templates/stm_upcoming_event.php:10
+msgid "days, days"
+msgstr ""
+
+#: vc_templates/stm_countdown.php:23 vc_templates/stm_upcoming_event.php:11
+msgid "hours, hours"
+msgstr ""
+
+#: vc_templates/stm_countdown.php:24 vc_templates/stm_upcoming_event.php:12
+msgid "minutes, minutes"
+msgstr ""
+
+#: vc_templates/stm_countdown.php:25 vc_templates/stm_upcoming_event.php:13
+msgid "seconds, seconds"
+msgstr ""
+
+#: vc_templates/stm_events_list.php:83 partials/vc_parts/video/style_1.php:90
+#: includes/theme/vc/modules/gallery.php:795
+#: partials/vc_parts/projects_cards/style_1/cards.php:65
+#: partials/vc_parts/projects_cards/style_2/cards.php:70
+#: partials/vc_parts/projects_cards/style_3/cards.php:58
+#: partials/vc_parts/projects_cards/style_4/cards.php:64
+msgid "Load more"
+msgstr ""
+
+#: vc_templates/stm_google_map_address.php:17
+msgid "Office"
+msgstr ""
+
+#: vc_templates/stm_google_map_address.php:27 includes/widgets/contacts.php:56
+#: includes/theme/vc/modules/contact.php:39
+#: includes/theme/vc/modules/contacts_widget.php:25
+#: includes/theme/vc/modules/google_map.php:105
+#: partials/content/stm_events/single/_join_form.php:44
+msgid "Phone"
+msgstr ""
+
+#: vc_templates/stm_google_map_address.php:37 includes/widgets/contacts.php:70
+#: includes/theme/vc/modules/contact.php:44
+#: includes/theme/vc/modules/contacts_widget.php:35
+#: includes/theme/vc/modules/google_map.php:110
+#: includes/theme/vc/modules/staff.php:99
+msgid "Email"
+msgstr ""
+
+#: vc_templates/stm_google_map_address.php:47
+#: includes/theme/vc/modules/google_map.php:115
+msgid "Open Hours"
+msgstr ""
+
+#: vc_templates/stm_opening_hours_item.php:6
+#: includes/widgets/class-stm-widget-working-hours.php:59
+#: includes/widgets/class-stm-widget-working-hours.php:229
+#: includes/theme/vc/modules/opening_hours.php:33
+msgid "Sunday"
+msgstr ""
+
+#: vc_templates/stm_opening_hours_item.php:7
+#: includes/widgets/class-stm-widget-working-hours.php:53
+#: includes/widgets/class-stm-widget-working-hours.php:181
+#: includes/theme/vc/modules/opening_hours.php:34
+msgid "Monday"
+msgstr ""
+
+#: vc_templates/stm_opening_hours_item.php:8
+#: includes/widgets/class-stm-widget-working-hours.php:54
+#: includes/widgets/class-stm-widget-working-hours.php:189
+#: includes/theme/vc/modules/opening_hours.php:35
+msgid "Tuesday"
+msgstr ""
+
+#: vc_templates/stm_opening_hours_item.php:9
+#: includes/widgets/class-stm-widget-working-hours.php:55
+#: includes/widgets/class-stm-widget-working-hours.php:197
+#: includes/theme/vc/modules/opening_hours.php:36
+msgid "Wednesday"
+msgstr ""
+
+#: vc_templates/stm_opening_hours_item.php:10
+#: includes/widgets/class-stm-widget-working-hours.php:56
+#: includes/widgets/class-stm-widget-working-hours.php:205
+#: includes/theme/vc/modules/opening_hours.php:37
+msgid "Thursday"
+msgstr ""
+
+#: vc_templates/stm_opening_hours_item.php:11
+#: includes/widgets/class-stm-widget-working-hours.php:57
+#: includes/widgets/class-stm-widget-working-hours.php:213
+#: includes/theme/vc/modules/opening_hours.php:38
+msgid "Friday"
+msgstr ""
+
+#: vc_templates/stm_opening_hours_item.php:12
+#: includes/widgets/class-stm-widget-working-hours.php:58
+#: includes/widgets/class-stm-widget-working-hours.php:221
+#: includes/theme/vc/modules/opening_hours.php:39
+msgid "Saturday"
+msgstr ""
+
+#: vc_templates/stm_opening_hours_item.php:50
+msgid "Lunch:"
+msgstr ""
+
+#: vc_templates/stm_opening_hours_item.php:58
+#, php-format
+msgid "<strong class=\"wtc\">%d h. %d min.</strong><br/>to closing"
+msgstr ""
+
+#: vc_templates/stm_opening_hours_item.php:60
+#, php-format
+msgid "<strong class=\"wtc\">Opens in %d h. %d min.</strong><br/>"
+msgstr ""
+
+#: vc_templates/stm_partners.php:46 includes/theme/vc/modules/partners.php:22
+#: includes/theme/vc/modules/partners.php:41
+msgid "Partner Logo"
+msgstr ""
+
+#: vc_templates/stm_posts_list.php:91
+msgid "Load more stories"
+msgstr ""
+
+#: vc_templates/stm_posts_video.php:89
+#: partials/vc_parts/posts_carousel/style_2.php:120
+#: partials/vc_parts/posts_carousel/style_3.php:113
+msgid "by"
+msgstr ""
+
+#: vc_templates/stm_posts_video.php:101
+#: partials/vc_parts/posts_carousel/style_1.php:119
+#: partials/vc_parts/posts_carousel/style_2.php:137
+#: partials/vc_parts/posts_carousel/style_2.php:180
+#: partials/vc_parts/posts_carousel/style_3.php:129
+#: partials/vc_parts/posts_list/style_10.php:81
+#: partials/vc_parts/posts_list/style_11.php:56
+#: partials/content/post/parts/after_content.php:74
+#: partials/content/post/archive_layouts/grid/style_17.php:64
+#: partials/content/post/archive_layouts/grid/style_18.php:63
+#: partials/content/post/archive_layouts/grid/style_19.php:63
+#: partials/content/post/archive_layouts/grid/style_20.php:60
+#: partials/content/post/archive_layouts/list/style_17.php:63
+#: partials/content/post/archive_layouts/list/style_18.php:63
+#: partials/content/post/archive_layouts/list/style_19.php:63
+#: partials/content/post/archive_layouts/list/style_20.php:63
+msgid "view"
+msgstr ""
+
+#: vc_templates/stm_posts_video.php:103
+#: partials/vc_parts/posts_carousel/style_1.php:121
+#: partials/vc_parts/posts_carousel/style_2.php:139
+#: partials/vc_parts/posts_carousel/style_2.php:182
+#: partials/vc_parts/posts_carousel/style_3.php:131
+#: partials/vc_parts/posts_list/style_10.php:83
+#: partials/vc_parts/posts_list/style_11.php:58
+#: partials/content/post/parts/after_content.php:76
+#: partials/content/post/archive_layouts/grid/style_17.php:66
+#: partials/content/post/archive_layouts/grid/style_18.php:65
+#: partials/content/post/archive_layouts/grid/style_19.php:65
+#: partials/content/post/archive_layouts/grid/style_20.php:62
+#: partials/content/post/archive_layouts/list/style_17.php:65
+#: partials/content/post/archive_layouts/list/style_18.php:65
+#: partials/content/post/archive_layouts/list/style_19.php:65
+#: partials/content/post/archive_layouts/list/style_20.php:65
+msgid "views"
+msgstr ""
+
+#: vc_templates/stm_project_details.php:13
+msgid "Client name:"
+msgstr ""
+
+#: vc_templates/stm_project_details.php:14
+msgid "Location:"
+msgstr ""
+
+#: vc_templates/stm_project_details.php:15
+msgid "Surface Area:"
+msgstr ""
+
+#: vc_templates/stm_project_details.php:16
+msgid "Started"
+msgstr ""
+
+#: vc_templates/stm_project_details.php:17
+msgid "Completed:"
+msgstr ""
+
+#: vc_templates/stm_project_details.php:18
+#: partials/content/stm_events/single/_details.php:41
+msgid "Date:"
+msgstr ""
+
+#: vc_templates/stm_project_details.php:19
+msgid "Value:"
+msgstr ""
+
+#: vc_templates/stm_project_details.php:20
+#: partials/content/post/parts/postinfo-2.php:11
+#: partials/content/post/parts/postinfo-3.php:10
+msgid "Category:"
+msgstr ""
+
+#: vc_templates/stm_project_details.php:21
+msgid "Architect:"
+msgstr ""
+
+#: vc_templates/stm_project_details.php:44
+msgid "Website"
+msgstr ""
+
+#: vc_templates/stm_staff_tabs.php:35 includes/theme/vc/helpers.php:501
+#: includes/theme/vc/modules/gallery.php:481
+#: partials/vc_parts/projects_cards/style_4/style_4.php:17
+msgid "All"
+msgstr ""
+
+#: vc_templates/stm_upcoming_event.php:61
+#: includes/theme/vc/post_types/events.php:61
+msgid "Upcoming event"
+msgstr ""
+
+#: vc_templates/stm_upcoming_event.php:89
+#: includes/theme/vc/grid_builder.php:134
+#: partials/vc_parts/services/grid_style_3.php:37
+#: partials/vc_parts/services_carousel/style_1.php:47
+#: partials/content/post/archive_layouts/grid/style_4.php:32
+#: partials/content/post/archive_layouts/list/style_3.php:20
+#: partials/content/post/archive_layouts/list/style_4.php:45
+msgid "Read more"
+msgstr ""
+
+#: vc_templates/stm_upcoming_event.php:111
+msgid "No upcoming events"
+msgstr ""
+
+#: vc_templates/stm_woo_categories.php:41
+#: partials/vc_parts/infobox/style_2.php:32
+#: partials/vc_parts/infobox/style_2.php:33
+#: partials/vc_parts/infobox/style_3.php:31
+#: partials/vc_parts/infobox/style_3.php:32
+msgid "Shop now"
+msgstr ""
+
+#: vc_templates/stm_woo_special_product.php:56
+msgid "Special offer"
+msgstr ""
+
+#: vc_templates/stm_woo_special_product.php:78
+msgid "Time is up, sorry!"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:60
+msgid "Previous tab"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:60 vc_templates/vc_tabs.php:60
+msgid "Next tab"
+msgstr ""
+
+#: includes/theme/comments.php:30
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/theme/comments.php:32
+msgid "Reply"
+msgstr ""
+
+#: includes/theme/comments.php:33
+msgid "Edit"
+msgstr ""
+
+#: includes/theme/comments.php:39
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/theme/comments.php:61 includes/theme/vc/modules/contact.php:18
+#: includes/theme/vc/modules/staff.php:77
+msgid "Name"
+msgstr ""
+
+#: includes/theme/comments.php:66
+msgid "E-mail"
+msgstr ""
+
+#: includes/theme/comments.php:78
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: includes/theme/enqueue.php:224
+msgctxt "Main font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/theme/enqueue.php:225
+msgctxt "Secondary font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/theme/header_helpers.php:92
+msgid "English"
+msgstr ""
+
+#: includes/theme/post_stats.php:140
+#: includes/theme/vc/modules/post_carousel.php:66
+#: partials/header/elements/filter/filter.php:38
+msgid "Trending"
+msgstr ""
+
+#: includes/theme/post_stats.php:146
+#: partials/header/elements/filter/filter.php:32
+msgid "Latest"
+msgstr ""
+
+#: includes/theme/post_stats.php:152
+#: includes/theme/vc/modules/post_carousel.php:65
+#: partials/header/elements/filter/filter.php:20
+msgid "Hot"
+msgstr ""
+
+#: includes/theme/post_stats.php:158
+#: includes/theme/vc/modules/post_carousel.php:64
+#: partials/header/elements/filter/filter.php:26
+msgid "Popular"
+msgstr ""
+
+#: includes/theme/setups.php:34
+msgid "Primary menu"
+msgstr ""
+
+#: includes/theme/setups.php:39
+msgid "Primary Sidebar"
+msgstr ""
+
+#: includes/theme/setups.php:41
+msgid "Main sidebar that appears on the right or left."
+msgstr ""
+
+#: includes/theme/setups.php:49
+msgid "Footer Area"
+msgstr ""
+
+#: includes/theme/setups.php:51
+msgid "Footer Widget Area that appears at the bottom of the page."
+msgstr ""
+
+#: includes/theme/theme.php:634
+#, php-format
+msgid "Style %s"
+msgstr ""
+
+#: includes/theme/theme.php:639 includes/theme/vc/grid_builder.php:138
+msgid "Style"
+msgstr ""
+
+#: includes/theme/theme.php:703
+msgid "PREV"
+msgstr ""
+
+#: includes/theme/theme.php:704
+msgid "NEXT"
+msgstr ""
+
+#: includes/theme/theme.php:1168
+msgid "Next page"
+msgstr ""
+
+#: includes/theme/theme.php:1169
+msgid "Previous page"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-custom-menu.php:27
+msgid "Add a custom menu to your sidebar."
+msgstr ""
+
+#: includes/widgets/class-stm-widget-custom-menu.php:30
+msgid "STM Custom Menu"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-custom-menu.php:154
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: includes/widgets/class-stm-widget-custom-menu.php:158
+#: includes/widgets/class-stm-widget-recent-comments.php:119
+#: includes/widgets/class-stm-widget-recent-posts.php:136
+#: includes/widgets/class-stm-widget-search.php:36
+#: includes/widgets/class-stm-widget-tag-cloud.php:92
+#: includes/widgets/class-stm-widget-working-hours.php:174
+#: includes/widgets/contacts.php:159 includes/widgets/follow.php:152
+#: includes/widgets/follow.php:159 includes/widgets/follow.php:165
+#: includes/widgets/follow.php:171 includes/widgets/follow.php:177
+#: includes/widgets/follow.php:183 includes/widgets/gallery.php:109
+#: includes/widgets/pages.php:134 includes/widgets/post_list.php:136
+#: includes/widgets/text.php:72
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-custom-menu.php:162
+msgid "Select Menu:"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-custom-menu.php:164
+#: includes/theme/vc/helpers.php:623
+msgid "Select"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-custom-menu.php:186
+msgid "Edit Menu"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-recent-comments.php:9
+msgid "Your site&#8217;s most recent comments."
+msgstr ""
+
+#: includes/widgets/class-stm-widget-recent-comments.php:12
+msgid "STM Recent Comments"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-recent-comments.php:45
+msgid "Recent Comments"
+msgstr ""
+
+#. comments widget: 1: comment author, 2: post link
+#: includes/widgets/class-stm-widget-recent-comments.php:83
+#, php-format
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-recent-comments.php:122
+msgid "Number of comments to show:"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-recent-posts.php:23
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: includes/widgets/class-stm-widget-recent-posts.php:27
+msgid "STM Recent Posts"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-recent-posts.php:145
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-recent-posts.php:162
+msgid "Display post date?"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-recent-posts.php:170
+msgid "Display post image?"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-search.php:8
+msgid "A search form for your site."
+msgstr ""
+
+#: includes/widgets/class-stm-widget-search.php:11
+msgctxt "Search widget"
+msgid "STM Search"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-tag-cloud.php:9
+msgid "A cloud of your most used tags."
+msgstr ""
+
+#: includes/widgets/class-stm-widget-tag-cloud.php:12
+msgid "STM Tag Cloud"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-tag-cloud.php:26
+msgid "Tags"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-tag-cloud.php:105
+msgid ""
+"The tag cloud will not be displayed since there are no taxonomies that "
+"support the tag cloud widget."
+msgstr ""
+
+#: includes/widgets/class-stm-widget-tag-cloud.php:122
+msgid "Taxonomy:"
+msgstr ""
+
+#. Base ID
+#: includes/widgets/class-stm-widget-working-hours.php:13
+msgid "Working Hours"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-working-hours.php:14
+msgid "Office working hours"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-working-hours.php:84
+msgid "Closed"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-working-hours.php:101
+#: includes/widgets/contacts.php:97 includes/widgets/text.php:37
+#: partials/footer/parts/_socials.php:12
+#: partials/header/elements/socials/socials.php:35
+#: partials/header/elements/socials/socials.php:49
+msgid "Social item"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-working-hours.php:140
+msgid "Working hours"
+msgstr ""
+
+#: includes/widgets/class-stm-widget-working-hours.php:251
+#: includes/widgets/contacts.php:196 includes/widgets/text.php:91
+msgid "Add Socials Widget"
+msgstr ""
+
+#. Base ID
+#: includes/widgets/contacts.php:13
+msgid "Contacts"
+msgstr ""
+
+#: includes/widgets/contacts.php:14
+msgid "Contacts widget"
+msgstr ""
+
+#: includes/widgets/contacts.php:49
+#: includes/theme/vc/modules/contacts_widget.php:20
+#: includes/theme/vc/modules/google_map.php:86
+#: includes/theme/vc/modules/google_map.php:100
+msgid "Address"
+msgstr ""
+
+#: includes/widgets/contacts.php:63
+#: includes/theme/vc/modules/contacts_widget.php:30
+msgid "Fax"
+msgstr ""
+
+#: includes/widgets/contacts.php:82
+#: includes/theme/vc/modules/contacts_widget.php:40
+msgid "Open hours"
+msgstr ""
+
+#: includes/widgets/contacts.php:129
+msgid "Contact"
+msgstr ""
+
+#: includes/widgets/contacts.php:166
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/contacts.php:173
+msgid "Phone:"
+msgstr ""
+
+#: includes/widgets/contacts.php:180
+msgid "Fax:"
+msgstr ""
+
+#: includes/widgets/contacts.php:187
+msgid "E-mail:"
+msgstr ""
+
+#: includes/widgets/contacts.php:200
+msgid "Open Hours:"
+msgstr ""
+
+#: includes/widgets/contacts.php:213 includes/widgets/follow.php:194
+#: includes/widgets/gallery.php:157 includes/widgets/pages.php:165
+msgid "Style:"
+msgstr ""
+
+#. Base ID
+#: includes/widgets/follow.php:13 includes/widgets/follow.php:118
+msgid "Follow Us"
+msgstr ""
+
+#: includes/widgets/follow.php:14
+msgid "Follow us widget"
+msgstr ""
+
+#: includes/widgets/follow.php:49 includes/theme/vc/modules/staff.php:124
+msgid "Facebook"
+msgstr ""
+
+#: includes/widgets/follow.php:57 includes/theme/vc/modules/staff.php:130
+msgid "Twitter"
+msgstr ""
+
+#: includes/widgets/follow.php:65
+msgid "Youtube"
+msgstr ""
+
+#: includes/widgets/follow.php:73 includes/theme/vc/modules/staff.php:148
+msgid "Instagram"
+msgstr ""
+
+#: includes/widgets/follow.php:81
+msgid "Pinterest"
+msgstr ""
+
+#: includes/widgets/follow.php:157
+msgid "Facebook:"
+msgstr ""
+
+#: includes/widgets/follow.php:158 includes/widgets/follow.php:164
+#: includes/widgets/follow.php:170 includes/widgets/follow.php:176
+#: includes/widgets/follow.php:182
+msgid "Url:"
+msgstr ""
+
+#: includes/widgets/follow.php:163
+msgid "Twitter:"
+msgstr ""
+
+#: includes/widgets/follow.php:169
+msgid "Youtube:"
+msgstr ""
+
+#: includes/widgets/follow.php:175
+msgid "Instagram:"
+msgstr ""
+
+#: includes/widgets/follow.php:181
+msgid "Pinterest:"
+msgstr ""
+
+#: includes/widgets/gallery.php:10
+msgid "STM Posts Gallery widget"
+msgstr ""
+
+#: includes/widgets/gallery.php:13
+msgid "STM Posts Gallery"
+msgstr ""
+
+#: includes/widgets/gallery.php:119 includes/widgets/post_list.php:146
+msgid "Number of images:"
+msgstr ""
+
+#: includes/widgets/gallery.php:129 includes/widgets/post_list.php:156
+msgid "Image size:"
+msgstr ""
+
+#: includes/widgets/gallery.php:135 includes/widgets/post_list.php:162
+#: includes/theme/vc/modules/gallery.php:107
+#: includes/theme/vc/modules/sliding_images.php:25
+#: includes/theme/vc/modules/sliding_images.php:37
+#: includes/theme/vc/modules/sliding_images_with_text.php:25
+#: includes/theme/vc/modules/tilting_images.php:25
+#: includes/theme/vc/modules/tilting_images.php:37
+#: includes/theme/vc/post_types/media_events.php:56
+#: includes/theme/vc/post_types/projects.php:81
+#: includes/theme/vc/post_types/stories.php:51
+#: includes/theme/vc/post_types/testimonials.php:119
+msgid ""
+"Enter image size. Example 100x100, will crop image with 100px width and "
+"100px height"
+msgstr ""
+
+#: includes/widgets/gallery.php:140 includes/widgets/post_list.php:167
+msgid "Post type:"
+msgstr ""
+
+#: includes/widgets/pages.php:8
+msgid "A list of your site&#8217;s Pages."
+msgstr ""
+
+#: includes/widgets/pages.php:9
+msgid "STM Pages"
+msgstr ""
+
+#: includes/widgets/pages.php:139
+msgid "Sort by:"
+msgstr ""
+
+#: includes/widgets/pages.php:143 includes/theme/vc/modules/pages.php:38
+#: includes/theme/vc/modules/pages_grid.php:37
+msgid "Page title"
+msgstr ""
+
+#: includes/widgets/pages.php:145 includes/theme/vc/modules/pages.php:39
+#: includes/theme/vc/modules/pages_grid.php:38
+msgid "Page order"
+msgstr ""
+
+#: includes/widgets/pages.php:147 includes/theme/vc/modules/pages.php:40
+#: includes/theme/vc/modules/pages_grid.php:39
+msgid "Page ID"
+msgstr ""
+
+#: includes/widgets/pages.php:152
+msgid "Include:"
+msgstr ""
+
+#: includes/widgets/pages.php:160
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: includes/widgets/post_list.php:10 includes/widgets/post_list.php:13
+msgid "STM Post Type List"
+msgstr ""
+
+#: includes/widgets/text.php:10
+msgid "STM Arbitrary text or HTML."
+msgstr ""
+
+#: includes/widgets/text.php:13
+msgid "STM Text"
+msgstr ""
+
+#: includes/widgets/text.php:78
+msgid "Content:"
+msgstr ""
+
+#: includes/widgets/text.php:86
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: partials/404/style_1.php:14 partials/404/style_2.php:14
+#: partials/404/style_3.php:14 partials/404/style_4.php:15
+#: partials/404/style_5.php:14 partials/404/style_7.php:14
+msgid "404"
+msgstr ""
+
+#: partials/404/style_1.php:16 partials/404/style_2.php:16
+#: partials/404/style_3.php:16 partials/404/style_4.php:17
+#: partials/404/style_5.php:19
+msgid "The page you are looking for does not exist."
+msgstr ""
+
+#: partials/404/style_1.php:19 partials/404/style_2.php:19
+#: partials/404/style_3.php:19 partials/404/style_4.php:20
+msgid "Go back to homepage"
+msgstr ""
+
+#: partials/404/style_5.php:17
+msgid "Error 404"
+msgstr ""
+
+#: partials/404/style_5.php:22 partials/404/style_6.php:20
+msgid "Home page"
+msgstr ""
+
+#: partials/404/style_6.php:15
+msgid "Oops!"
+msgstr ""
+
+#: partials/404/style_6.php:17
+msgid "That page can`t be found."
+msgstr ""
+
+#: partials/404/style_7.php:19
+msgid "We are sorry, the page you requested cannot be found"
+msgstr ""
+
+#: partials/404/style_7.php:22
+msgid "You may want to check the following links:"
+msgstr ""
+
+#: partials/404/style_7.php:25
+msgid "Return to home page"
+msgstr ""
+
+#: partials/content/none.php:44
+msgid "Your search"
+msgstr ""
+
+#: partials/content/none.php:46
+msgid "0 results"
+msgstr ""
+
+#: partials/content/none.php:48
+msgid "Nothing found"
+msgstr ""
+
+#: partials/footer/player.php:45
+#, php-format
+msgid "Album - <label>%s</label>"
+msgstr ""
+
+#: partials/global/searchform.php:7
+msgid "Search..."
+msgstr ""
+
+#: partials/global/title_box.php:22
+msgid "Search"
+msgstr ""
+
+#: partials/global/title_box.php:48
+msgid "Date Archive"
+msgstr ""
+
+#: partials/header/mobile.php:21
+msgid "Home"
+msgstr ""
+
+#: partials/header/mobile.php:23
+msgid "Site Logo"
+msgstr ""
+
+#: partials/modals/_album_modal.php:65 partials/vc_parts/events/style_1.php:35
+#: partials/vc_parts/events/style_4.php:11
+#: partials/vc_parts/projects/style_1.php:32
+#: partials/vc_parts/projects/style_1_carousel.php:95
+#: partials/vc_parts/projects/style_2_carousel.php:41
+#: partials/vc_parts/projects/style_4.php:32
+#: partials/vc_parts/projects/style_5.php:32
+#: partials/vc_parts/projects/style_6.php:32
+#: partials/vc_parts/services/grid_style_1.php:26
+#: partials/vc_parts/stm_staff/grid/style_1.php:40
+#: partials/vc_parts/stm_staff/grid/style_3.php:40
+#: partials/vc_parts/stm_staff/grid/style_4.php:30
+#: partials/vc_parts/stm_staff/grid/style_5.php:31
+#: partials/vc_parts/stm_staff/list/style_1.php:33
+#: partials/vc_parts/stm_staff/list/style_3.php:33
+#: partials/vc_parts/stm_staff/list/style_4.php:35
+#: partials/vc_parts/stm_staff/list/style_5.php:47
+#: partials/vc_parts/stm_staff/list/style_6.php:78
+#: partials/content/post/archive_layouts/grid/style_2.php:29
+#: partials/content/post/archive_layouts/grid/style_3.php:10
+msgid "View more"
+msgstr ""
+
+#: partials/modals/_product.php:41
+msgid "Sku:"
+msgstr ""
+
+#: partials/modals/_product.php:56
+msgid "Show details"
+msgstr ""
+
+#: partials/modals/_search.php:9
+msgid "Start typing here..."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:34
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:58
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+#: woocommerce/myaccount/form-login.php:100
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:64
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:77
+#: woocommerce/myaccount/form-login.php:113
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:93
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:107
+msgid "Anti-spam"
+msgstr ""
+
+#: includes/admin/theme_options/screen.php:15
+msgid "Get my settings"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:7
+#: includes/theme/vc/modules/button.php:172
+msgid "Divider"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:9 includes/theme/vc/grid_builder.php:45
+#: includes/theme/vc/grid_builder.php:126
+#: includes/theme/vc/visual_composer.php:100
+#: includes/theme/vc/modules/breadcrumbs.php:10
+#: includes/theme/vc/modules/button.php:11
+#: includes/theme/vc/modules/call_to_action.php:8
+#: includes/theme/vc/modules/carousel_gallery.php:13
+#: includes/theme/vc/modules/categories.php:11
+#: includes/theme/vc/modules/cf7.php:16 includes/theme/vc/modules/charts.php:11
+#: includes/theme/vc/modules/circle_progress.php:12
+#: includes/theme/vc/modules/color_presentation.php:11
+#: includes/theme/vc/modules/company_history.php:11
+#: includes/theme/vc/modules/contact.php:11
+#: includes/theme/vc/modules/contacts_widget.php:7
+#: includes/theme/vc/modules/countdown.php:14
+#: includes/theme/vc/modules/floating_gallery.php:11
+#: includes/theme/vc/modules/gallery.php:17
+#: includes/theme/vc/modules/google_map.php:16
+#: includes/theme/vc/modules/icon.php:9
+#: includes/theme/vc/modules/iconbox.php:11
+#: includes/theme/vc/modules/icontext.php:13
+#: includes/theme/vc/modules/icon_links.php:11
+#: includes/theme/vc/modules/icon_list.php:10
+#: includes/theme/vc/modules/icon_separator.php:11
+#: includes/theme/vc/modules/infobox.php:11
+#: includes/theme/vc/modules/opening_hours.php:10
+#: includes/theme/vc/modules/opentable_widget.php:9
+#: includes/theme/vc/modules/pages.php:20
+#: includes/theme/vc/modules/pages_grid.php:20
+#: includes/theme/vc/modules/partners.php:12
+#: includes/theme/vc/modules/post_carousel.php:35
+#: includes/theme/vc/modules/post_list.php:16
+#: includes/theme/vc/modules/post_prev_next.php:12
+#: includes/theme/vc/modules/post_timeline.php:12
+#: includes/theme/vc/modules/post_type_list.php:13
+#: includes/theme/vc/modules/post_video.php:13
+#: includes/theme/vc/modules/pricing_table.php:13
+#: includes/theme/vc/modules/pricing_table_flip.php:13
+#: includes/theme/vc/modules/recent_posts.php:14
+#: includes/theme/vc/modules/recent_posts.php:18
+#: includes/theme/vc/modules/schedule.php:8
+#: includes/theme/vc/modules/schedule.php:15
+#: includes/theme/vc/modules/separator.php:7
+#: includes/theme/vc/modules/separator.php:12
+#: includes/theme/vc/modules/services_carousel.php:10
+#: includes/theme/vc/modules/services_carousel.php:13
+#: includes/theme/vc/modules/sliding_images.php:10
+#: includes/theme/vc/modules/sliding_images_with_text.php:10
+#: includes/theme/vc/modules/staff.php:13
+#: includes/theme/vc/modules/staff_tabs.php:9
+#: includes/theme/vc/modules/staff_tabs.php:11
+#: includes/theme/vc/modules/stats_counter.php:10
+#: includes/theme/vc/modules/stats_counter.php:12
+#: includes/theme/vc/modules/taxonomy.php:12
+#: includes/theme/vc/modules/taxonomy.php:15
+#: includes/theme/vc/modules/tilting_images.php:10
+#: includes/theme/vc/modules/vertical_carousel.php:8
+#: includes/theme/vc/modules/vertical_carousel.php:11
+#: includes/theme/vc/modules/video.php:11
+#: includes/theme/vc/post_types/donations.php:6
+#: includes/theme/vc/post_types/events.php:10
+#: includes/theme/vc/post_types/events.php:64
+#: includes/theme/vc/post_types/media_events.php:15
+#: includes/theme/vc/post_types/media_events.php:39
+#: includes/theme/vc/post_types/music.php:14
+#: includes/theme/vc/post_types/music.php:73
+#: includes/theme/vc/post_types/product.php:229
+#: includes/theme/vc/post_types/product.php:240
+#: includes/theme/vc/post_types/product.php:250
+#: includes/theme/vc/post_types/product.php:260
+#: includes/theme/vc/post_types/product.php:270
+#: includes/theme/vc/post_types/product.php:280
+#: includes/theme/vc/post_types/services.php:14
+#: includes/theme/vc/post_types/stories.php:11
+#: includes/theme/vc/post_types/stories.php:35
+#: includes/theme/vc/post_types/vacancies.php:11
+#: includes/theme/vc/post_types/videos.php:11
+msgid "Content"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:10
+msgid "Simple separator"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:15
+#: includes/theme/vc/modules/charts.php:99
+#: includes/theme/vc/modules/charts.php:147
+#: includes/theme/vc/modules/color_presentation.php:18
+#: includes/theme/vc/modules/separator.php:16
+msgid "Color"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:22
+#: includes/theme/vc/modules/separator.php:23
+msgid "Custom color"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:31
+#: includes/theme/vc/modules/breadcrumbs.php:22
+#: includes/theme/vc/modules/icon_links.php:57
+#: includes/theme/vc/modules/separator.php:44
+msgid "Align"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:42
+msgid "Action Button"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:50
+msgid "Add link"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:53
+msgid "Post link"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:54 includes/theme/vc/helpers.php:15
+#: includes/theme/vc/helpers.php:25 includes/theme/vc/helpers.php:87
+#: includes/theme/vc/helpers.php:270 includes/theme/vc/modules/button.php:91
+#: includes/theme/vc/modules/button.php:216
+#: includes/theme/vc/modules/call_to_action.php:33
+#: includes/theme/vc/modules/iconbox.php:70
+#: includes/theme/vc/modules/icontext.php:67
+#: includes/theme/vc/modules/icontext.php:121
+#: includes/theme/vc/modules/icon_separator.php:23
+#: includes/theme/vc/modules/stats_counter.php:35
+#: includes/theme/vc/modules/stats_counter.php:112
+msgid "Custom"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:60
+#: includes/theme/vc/modules/items_grid.php:54
+msgid "Button text"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:69
+#: includes/theme/vc/modules/button.php:19
+#: includes/theme/vc/modules/call_to_action.php:21
+#: includes/theme/vc/post_types/events.php:68
+msgid "Button link"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:78
+#: includes/theme/vc/modules/button.php:199
+#: includes/theme/vc/modules/call_to_action.php:27
+msgid "Button color scheme"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:81 includes/theme/vc/helpers.php:12
+#: includes/theme/vc/helpers.php:22 includes/theme/vc/helpers.php:267
+#: includes/theme/vc/modules/button.php:212
+#: includes/theme/vc/modules/call_to_action.php:30
+#: includes/theme/vc/modules/icon_list.php:40
+#: includes/theme/vc/modules/icon_separator.php:20
+msgid "Primary"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:82 includes/theme/vc/helpers.php:13
+#: includes/theme/vc/helpers.php:23 includes/theme/vc/helpers.php:268
+#: includes/theme/vc/modules/button.php:213
+#: includes/theme/vc/modules/call_to_action.php:31
+#: includes/theme/vc/modules/icon_list.php:41
+#: includes/theme/vc/modules/icon_separator.php:21
+msgid "Secondary"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:83
+#: includes/theme/vc/modules/button.php:215
+#: includes/theme/vc/modules/call_to_action.php:32
+#: includes/theme/vc/modules/icon_list.php:43
+msgid "White"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:89
+#: includes/theme/vc/modules/button.php:25
+#: includes/theme/vc/modules/call_to_action.php:114
+msgid "Button style"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:92
+#: includes/theme/vc/modules/button.php:28
+#: includes/theme/vc/modules/call_to_action.php:117
+msgid "Solid"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:93
+#: includes/theme/vc/modules/button.php:29
+#: includes/theme/vc/modules/call_to_action.php:118
+msgid "Outline"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:99
+#: includes/theme/vc/modules/button.php:62
+#: includes/theme/vc/modules/call_to_action.php:125
+msgid "Button icon position"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:102 includes/theme/vc/helpers.php:310
+#: includes/admin/theme_options/includes/helpers.php:159
+#: includes/theme/vc/modules/button.php:65
+#: includes/theme/vc/modules/call_to_action.php:128
+#: includes/theme/vc/modules/carousel_gallery.php:28
+#: includes/theme/vc/modules/post_carousel.php:63
+msgid "None"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:103 includes/theme/vc/helpers.php:32
+#: includes/theme/vc/helpers.php:253
+#: includes/theme/vc/modules/breadcrumbs.php:24
+#: includes/theme/vc/modules/button.php:52
+#: includes/theme/vc/modules/button.php:66
+#: includes/theme/vc/modules/call_to_action.php:129
+#: includes/theme/vc/modules/iconbox.php:44
+#: includes/theme/vc/modules/iconbox.php:55
+msgid "Left"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:104 includes/theme/vc/helpers.php:34
+#: includes/theme/vc/helpers.php:251
+#: includes/theme/vc/modules/breadcrumbs.php:26
+#: includes/theme/vc/modules/button.php:53
+#: includes/theme/vc/modules/button.php:67
+#: includes/theme/vc/modules/call_to_action.php:130
+#: includes/theme/vc/modules/carousel_gallery.php:164
+#: includes/theme/vc/modules/charts.php:41
+#: includes/theme/vc/modules/iconbox.php:46
+#: includes/theme/vc/modules/iconbox.php:58
+msgid "Right"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:110
+#: includes/theme/vc/modules/button.php:75
+#: includes/theme/vc/modules/call_to_action.php:137
+msgid "Button icon"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:124
+#: includes/theme/vc/grid_builder.php:127
+msgid "Read more link"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:132
+#: includes/theme/vc/modules/call_to_action.php:15
+#: includes/theme/vc/modules/iconbox.php:117
+#: includes/theme/vc/modules/icontext.php:20
+#: includes/theme/vc/modules/icon_list.php:16
+#: includes/theme/vc/modules/infobox.php:40
+#: includes/theme/vc/modules/pricing_table.php:54
+#: includes/theme/vc/modules/pricing_table_flip.php:39
+#: includes/theme/vc/modules/services_carousel.php:19
+#: includes/theme/vc/modules/sliding_images_with_text.php:29
+#: includes/theme/vc/modules/staff.php:166
+msgid "Text"
+msgstr ""
+
+#: includes/theme/vc/grid_builder.php:144 includes/theme/vc/helpers.php:235
+#: includes/theme/vc/helpers.php:434 includes/theme/vc/modules/button.php:70
+#: includes/theme/vc/modules/button.php:82
+#: includes/theme/vc/modules/button.php:99
+#: includes/theme/vc/modules/button.php:111
+#: includes/theme/vc/modules/button.php:123
+#: includes/theme/vc/modules/button.php:135
+#: includes/theme/vc/modules/button.php:147
+#: includes/theme/vc/modules/button.php:159
+#: includes/theme/vc/modules/icon.php:20
+#: includes/theme/vc/modules/iconbox.php:35
+#: includes/theme/vc/modules/icon_links.php:22
+#: includes/theme/vc/modules/icon_links.php:37
+#: includes/theme/vc/modules/icon_separator.php:38
+#: includes/theme/vc/modules/pricing_table_flip.php:49
+#: includes/theme/vc/modules/stats_counter.php:24
+msgid "Icon"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:14 includes/theme/vc/helpers.php:24
+#: includes/theme/vc/helpers.php:269 includes/theme/vc/modules/button.php:214
+#: includes/theme/vc/modules/icon_list.php:42
+#: includes/theme/vc/modules/icon_separator.php:22
+msgid "Third"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:33
+#: includes/theme/vc/modules/breadcrumbs.php:25
+#: includes/theme/vc/modules/button.php:54
+#: includes/theme/vc/modules/iconbox.php:45
+#: includes/theme/vc/modules/iconbox.php:57
+msgid "Center"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:42 includes/theme/vc/modules/charts.php:157
+#: includes/theme/vc/modules/circle_progress.php:43
+#: includes/theme/vc/modules/company_history.php:24
+#: includes/theme/vc/modules/opening_hours.php:17
+#: includes/theme/vc/modules/schedule.php:43
+#: includes/theme/vc/modules/services_carousel.php:131
+msgid "Css"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:44 includes/theme/vc/modules/charts.php:159
+#: includes/theme/vc/modules/circle_progress.php:45
+#: includes/theme/vc/modules/company_history.php:26
+#: includes/theme/vc/modules/services_carousel.php:133
+msgid "Design options"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:53
+msgid "Items per row"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:81
+#, php-format
+msgid "%s Color"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:84 includes/theme/vc/modules/iconbox.php:67
+#: includes/theme/vc/modules/stats_counter.php:32
+#: includes/theme/vc/modules/stats_counter.php:109
+msgid "Main color"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:85 includes/theme/vc/modules/iconbox.php:68
+#: includes/theme/vc/modules/icontext.php:65
+#: includes/theme/vc/modules/icontext.php:119
+#: includes/theme/vc/modules/stats_counter.php:33
+#: includes/theme/vc/modules/stats_counter.php:110
+#: includes/theme/vc/post_types/music.php:28
+msgid "Secondary color"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:86 includes/theme/vc/modules/iconbox.php:69
+#: includes/theme/vc/modules/icontext.php:66
+#: includes/theme/vc/modules/icontext.php:120
+#: includes/theme/vc/modules/stats_counter.php:34
+#: includes/theme/vc/modules/stats_counter.php:111
+#: includes/theme/vc/post_types/music.php:29
+msgid "Third color"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:89 includes/theme/vc/modules/button.php:93
+#: includes/theme/vc/modules/iconbox.php:72
+#: includes/theme/vc/modules/icontext.php:123
+#: includes/theme/vc/modules/icon_list.php:37
+#: includes/theme/vc/modules/stats_counter.php:37
+msgid "Select icon color"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:93 includes/theme/vc/modules/button.php:104
+#: includes/theme/vc/modules/iconbox.php:76
+#: includes/theme/vc/modules/icontext.php:132
+#: includes/theme/vc/modules/stats_counter.php:74
+msgid "Icon Custom Color"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:123
+msgid "Hover Action"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:138
+msgid "Font family"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:141
+msgid "Heading font"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:142
+msgid "Body font"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:145 includes/theme/vc/helpers.php:151
+#: includes/theme/vc/helpers.php:157 includes/theme/vc/helpers.php:163
+#: includes/theme/vc/helpers.php:171 includes/theme/vc/helpers.php:182
+msgid "Typography Settings"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:149
+msgid "Title font-size"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:155
+msgid "Title font-weight"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:161
+msgid "Line-height"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:167 includes/theme/vc/post_types/music.php:23
+msgid "Title color"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:175 includes/theme/vc/modules/iconbox.php:24
+msgid "Title Custom Color"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:190
+msgid "Stretch column"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:193 includes/theme/vc/helpers.php:296
+#: includes/theme/vc/modules/button.php:39
+#: includes/theme/vc/modules/button.php:90
+#: includes/theme/vc/modules/button.php:202
+#: includes/theme/vc/modules/icontext.php:63
+#: includes/theme/vc/modules/icontext.php:117
+#: includes/theme/vc/modules/post_list.php:101
+#: includes/theme/vc/post_types/music.php:26
+#: includes/theme/vc/post_types/product.php:96
+#: includes/theme/vc/post_types/product.php:106
+msgid "Default"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:194
+msgid "Stretch out to the left"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:195
+msgid "Stretch out to the right"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:202 includes/theme/vc/helpers.php:364
+msgid "Background position"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:205 includes/theme/vc/helpers.php:367
+msgid "Enter background position in px or %. Ex.: 50% 50% or 100px 50px"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:206 includes/theme/vc/helpers.php:220
+#: includes/theme/vc/helpers.php:231 includes/theme/vc/helpers.php:243
+#: includes/theme/vc/helpers.php:260 includes/theme/vc/helpers.php:277
+#: includes/theme/vc/helpers.php:289 includes/theme/vc/helpers.php:301
+#: includes/theme/vc/helpers.php:316 includes/theme/vc/helpers.php:330
+#: includes/theme/vc/helpers.php:341 includes/theme/vc/helpers.php:348
+#: includes/theme/vc/helpers.php:354 includes/theme/vc/helpers.php:360
+#: includes/theme/vc/helpers.php:368 includes/theme/vc/helpers.php:379
+#: includes/theme/vc/helpers.php:390 includes/theme/vc/helpers.php:405
+#: includes/theme/vc/helpers.php:416 includes/theme/vc/helpers.php:426
+#: includes/theme/vc/modules/schedule.php:45
+msgid "Design Options"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:213
+msgid "Heading line"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:216 includes/theme/vc/helpers.php:227
+#: includes/theme/vc/helpers.php:338 includes/theme/vc/helpers.php:387
+#: includes/theme/vc/helpers.php:413 includes/theme/vc/helpers.php:448
+#: includes/theme/vc/modules/button.php:176
+#: includes/theme/vc/modules/carousel_gallery.php:50
+#: includes/theme/vc/modules/carousel_gallery.php:75
+#: includes/theme/vc/modules/carousel_gallery.php:86
+#: includes/theme/vc/modules/carousel_gallery.php:97
+#: includes/theme/vc/modules/carousel_gallery.php:130
+#: includes/theme/vc/modules/carousel_gallery.php:141
+#: includes/theme/vc/modules/carousel_gallery.php:152
+#: includes/theme/vc/modules/gallery.php:117
+#: includes/theme/vc/modules/gallery.php:127
+#: includes/theme/vc/modules/icon.php:35
+#: includes/theme/vc/modules/iconbox.php:125
+#: includes/theme/vc/modules/iconbox.php:147
+#: includes/theme/vc/modules/opening_hours.php:47
+#: includes/theme/vc/modules/partners.php:78
+#: includes/theme/vc/modules/recent_posts.php:39
+#: includes/theme/vc/modules/recent_posts.php:48
+#: includes/theme/vc/modules/stats_counter.php:45
+#: includes/theme/vc/post_types/donations.php:21
+#: includes/theme/vc/post_types/events.php:35
+#: includes/theme/vc/post_types/music.php:58
+#: includes/theme/vc/post_types/product.php:144
+#: includes/theme/vc/post_types/projects.php:40
+#: includes/theme/vc/post_types/projects.php:53
+#: includes/theme/vc/post_types/projects.php:91
+#: includes/theme/vc/post_types/services.php:41
+#: includes/theme/vc/post_types/services.php:129
+#: includes/theme/vc/post_types/testimonials.php:28
+#: includes/theme/vc/post_types/testimonials.php:71
+msgid "Enable"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:217 includes/theme/vc/helpers.php:228
+#: includes/theme/vc/helpers.php:337 includes/theme/vc/helpers.php:386
+#: includes/theme/vc/helpers.php:412 includes/theme/vc/helpers.php:449
+#: includes/theme/vc/modules/button.php:175
+#: includes/theme/vc/modules/carousel_gallery.php:51
+#: includes/theme/vc/modules/carousel_gallery.php:76
+#: includes/theme/vc/modules/carousel_gallery.php:87
+#: includes/theme/vc/modules/carousel_gallery.php:98
+#: includes/theme/vc/modules/carousel_gallery.php:131
+#: includes/theme/vc/modules/carousel_gallery.php:142
+#: includes/theme/vc/modules/carousel_gallery.php:153
+#: includes/theme/vc/modules/gallery.php:118
+#: includes/theme/vc/modules/gallery.php:128
+#: includes/theme/vc/modules/icon.php:36 includes/theme/vc/modules/icon.php:98
+#: includes/theme/vc/modules/iconbox.php:126
+#: includes/theme/vc/modules/iconbox.php:146
+#: includes/theme/vc/modules/partners.php:77
+#: includes/theme/vc/modules/recent_posts.php:40
+#: includes/theme/vc/modules/recent_posts.php:49
+#: includes/theme/vc/modules/stats_counter.php:46
+#: includes/theme/vc/post_types/donations.php:22
+#: includes/theme/vc/post_types/events.php:36
+#: includes/theme/vc/post_types/music.php:59
+#: includes/theme/vc/post_types/product.php:143
+#: includes/theme/vc/post_types/projects.php:39
+#: includes/theme/vc/post_types/projects.php:54
+#: includes/theme/vc/post_types/projects.php:92
+#: includes/theme/vc/post_types/services.php:42
+#: includes/theme/vc/post_types/services.php:130
+#: includes/theme/vc/post_types/testimonials.php:29
+#: includes/theme/vc/post_types/testimonials.php:72
+msgid "Disable"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:224
+msgid "Heading side lines"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:247
+msgid "Icon Position"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:250 includes/theme/vc/helpers.php:311
+#: includes/theme/vc/helpers.php:397 includes/theme/vc/modules/iconbox.php:56
+msgid "Top"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:252 includes/theme/vc/helpers.php:312
+#: includes/theme/vc/helpers.php:398
+#: includes/theme/vc/modules/carousel_gallery.php:163
+#: includes/theme/vc/modules/charts.php:40
+msgid "Bottom"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:264 includes/theme/vc/helpers.php:281
+#: includes/theme/vc/modules/iconbox.php:64
+#: includes/theme/vc/modules/stats_counter.php:29
+msgid "Icon Color"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:293
+msgid "Text transform"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:297
+msgid "Uppercase"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:298
+msgid "Lowercase"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:307
+msgid "Row divider"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:313
+msgid "Both"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:320
+msgid "Row divider style"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:323
+msgid "Saw"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:334
+msgid "STM Parallax"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:345
+msgid "Animated gradient background"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:347
+msgid "Enter gradient colors on each line"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:352
+msgid "Row transparent first background color"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:358
+msgid "Row transparent second background color"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:372
+msgid "Show background on mobile"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:375 includes/theme/vc/helpers.php:437
+#: includes/theme/vc/post_types/services.php:96
+#: includes/theme/vc/post_types/testimonials.php:92
+#: includes/theme/vc/post_types/testimonials.php:110
+#: includes/theme/vc/post_types/vacancies.php:23
+#: includes/theme/vc/post_types/vacancies.php:33
+#: includes/theme/vc/post_types/vacancies.php:43
+msgid "Show"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:376 includes/theme/vc/helpers.php:438
+#: includes/theme/vc/post_types/services.php:97
+#: includes/theme/vc/post_types/testimonials.php:93
+#: includes/theme/vc/post_types/testimonials.php:111
+#: includes/theme/vc/post_types/vacancies.php:24
+#: includes/theme/vc/post_types/vacancies.php:34
+#: includes/theme/vc/post_types/vacancies.php:44
+msgid "Hide"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:383
+msgid "Row Top Bump"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:394
+msgid "Bump position"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:409
+msgid "Row Background Round"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:420
+msgid "Background Image"
+msgstr ""
+
+#: includes/theme/vc/helpers.php:445
+msgid "Close button"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:96
+msgid "Pearl Spacer"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:97
+msgid "Empty block for paddings"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:104
+#: includes/theme/vc/post_types/product.php:237
+msgid "Default Spacer height"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:110
+#: includes/theme/vc/post_types/product.php:258
+msgid "Tablet (landscape) Spacer height"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:115
+#: includes/theme/vc/post_types/product.php:268
+msgid "Tablet Spacer height"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:120
+#: includes/theme/vc/post_types/product.php:278
+msgid "Mobile Spacer height"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:127
+msgid "Pearl Sidebar"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:132
+msgid "Select sidebar"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:141
+msgid "Media Gallery"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:147
+#: includes/theme/vc/modules/charts.php:87
+#: includes/theme/vc/modules/charts.php:135
+#: includes/theme/vc/modules/circle_progress.php:19
+#: includes/theme/vc/modules/company_history.php:18
+#: includes/theme/vc/modules/company_history.php:45
+#: includes/theme/vc/modules/contacts_widget.php:15
+#: includes/theme/vc/modules/gallery.php:24
+#: includes/theme/vc/modules/google_map.php:94
+#: includes/theme/vc/modules/iconbox.php:19
+#: includes/theme/vc/modules/items_grid.php:15
+#: includes/theme/vc/modules/items_grid.php:22
+#: includes/theme/vc/modules/opentable_widget.php:15
+#: includes/theme/vc/modules/post_list.php:22
+#: includes/theme/vc/modules/post_type_list.php:19
+#: includes/theme/vc/modules/pricing_table.php:19
+#: includes/theme/vc/modules/pricing_table_flip.php:24
+#: includes/theme/vc/modules/recent_posts.php:24
+#: includes/theme/vc/modules/schedule.php:65
+#: includes/theme/vc/modules/schedule.php:81
+#: includes/theme/vc/modules/schedule.php:103
+#: includes/theme/vc/modules/stats_counter.php:19
+#: includes/theme/vc/post_types/media_events.php:20
+#: includes/theme/vc/post_types/music.php:18
+#: includes/theme/vc/post_types/music.php:77
+#: includes/theme/vc/post_types/projects.php:110
+#: includes/theme/vc/post_types/services.php:87
+#: includes/theme/vc/post_types/stories.php:15
+#: includes/theme/vc/post_types/testimonials.php:15
+#: includes/theme/vc/post_types/videos.php:15
+msgid "Title"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:152
+msgid "Images Source"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:158
+msgid "Number of images"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:163
+#: includes/theme/vc/modules/carousel_gallery.php:35
+#: includes/theme/vc/modules/carousel_gallery.php:116
+#: includes/theme/vc/modules/categories.php:18
+#: includes/theme/vc/modules/contact.php:28
+#: includes/theme/vc/modules/infobox.php:23
+#: includes/theme/vc/modules/partners.php:67
+#: includes/theme/vc/modules/post_timeline.php:63
+#: includes/theme/vc/modules/post_type_list.php:35
+#: includes/theme/vc/modules/sliding_images_with_text.php:22
+#: includes/theme/vc/modules/staff.php:88
+#: includes/theme/vc/modules/vertical_carousel.php:21
+#: includes/theme/vc/post_types/donations.php:28
+#: includes/theme/vc/post_types/services.php:53
+msgid "Image Size"
+msgstr ""
+
+#: includes/theme/vc/visual_composer.php:165
+#: includes/theme/vc/modules/carousel_gallery.php:37
+#: includes/theme/vc/modules/carousel_gallery.php:118
+#: includes/theme/vc/modules/categories.php:21
+#: includes/theme/vc/modules/contact.php:30
+#: includes/theme/vc/modules/infobox.php:25
+#: includes/theme/vc/modules/partners.php:69
+#: includes/theme/vc/modules/post_timeline.php:66
+#: includes/theme/vc/modules/post_type_list.php:37
+#: includes/theme/vc/modules/staff.php:90
+#: includes/theme/vc/modules/vertical_carousel.php:23
+#: includes/theme/vc/post_types/donations.php:30
+#: includes/theme/vc/post_types/music.php:51
+#: includes/theme/vc/post_types/services.php:55
+msgid "Enter image size in pixels: 200x100 (Width x Height)."
+msgstr ""
+
+#: includes/theme/woocommerce/woocommerce.php:41
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/theme/woocommerce/woocommerce.php:43
+msgid "Shop sidebar that appears on the right or left."
+msgstr ""
+
+#: partials/footer/parts/_copyright.php:9
+msgid "Copyright &copy;"
+msgstr ""
+
+#: partials/vc_parts/donations/style_1.php:34
+#: partials/vc_parts/donations/style_2.php:30
+msgid "Donate now"
+msgstr ""
+
+#: partials/vc_parts/events/style_3.php:60
+msgid "More details"
+msgstr ""
+
+#: partials/vc_parts/events/style_5.php:73
+#: partials/vc_parts/events/style_6.php:76
+msgid "View details"
+msgstr ""
+
+#: partials/vc_parts/events/style_7.php:34
+#: partials/content/stm_events/single/_details.php:37
+msgid "Details"
+msgstr ""
+
+#: partials/vc_parts/media_events/style_1.php:10
+#: partials/content/stm_media_events/parts/_meta.php:2
+#, php-format
+msgid "%s<span> by </span>%s"
+msgstr ""
+
+#: partials/vc_parts/posts_carousel/style_4.php:121
+msgid "Read More"
+msgstr ""
+
+#: partials/vc_parts/posts_list/style_7.php:13
+#: partials/vc_parts/posts_list/style_8.php:21
+#: partials/vc_parts/posts_list/style_9.php:21
+msgid "Sticky post"
+msgstr ""
+
+#: partials/vc_parts/posts_list/style_7.php:57
+#: partials/vc_parts/posts_list/style_8.php:65
+#: partials/vc_parts/posts_list/style_9.php:65
+#: partials/content/post/archive_layouts/grid/style_12.php:45
+#: partials/content/post/archive_layouts/grid/style_14.php:45
+#: partials/content/post/archive_layouts/grid/style_15.php:45
+#: partials/content/post/archive_layouts/grid/style_16.php:45
+#: partials/content/post/archive_layouts/list/style_12.php:45
+#: partials/content/post/archive_layouts/list/style_14.php:45
+#: partials/content/post/archive_layouts/list/style_15.php:45
+#: partials/content/post/archive_layouts/list/style_16.php:45
+msgid "View the Post"
+msgstr ""
+
+#: partials/vc_parts/projects/style_1_carousel.php:60
+msgid "All projects"
+msgstr ""
+
+#: partials/vc_parts/timeline/style_2.php:153
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:435
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:197
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:403
+msgid "By"
+msgstr ""
+
+#: woocommerce/layouts/business/cart.php:6
+#: woocommerce/layouts/business/cart.php:49
+#: woocommerce/layouts/store/cart.php:6 woocommerce/layouts/store/cart.php:37
+#: includes/theme/vc/post_types/product.php:50
+msgid "Product"
+msgstr ""
+
+#: woocommerce/layouts/business/cart.php:7
+#: woocommerce/layouts/business/cart.php:67
+#: woocommerce/layouts/store/cart.php:7 woocommerce/layouts/store/cart.php:55
+#: includes/theme/vc/modules/pricing_table.php:29
+#: includes/theme/vc/modules/pricing_table_flip.php:29
+msgid "Price"
+msgstr ""
+
+#: woocommerce/layouts/business/cart.php:8
+#: woocommerce/layouts/business/cart.php:73
+#: woocommerce/layouts/store/cart.php:8 woocommerce/layouts/store/cart.php:61
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/layouts/business/cart.php:9
+#: woocommerce/layouts/business/cart.php:90
+#: woocommerce/layouts/store/cart.php:9 woocommerce/layouts/store/cart.php:78
+msgid "Total"
+msgstr ""
+
+#: woocommerce/layouts/business/cart.php:30
+#: woocommerce/layouts/store/cart.php:89
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/layouts/business/cart.php:62
+#: woocommerce/layouts/store/cart.php:50
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/layouts/business/cart.php:108
+#: woocommerce/layouts/store/cart.php:108
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/layouts/business/cart.php:108
+#: woocommerce/layouts/store/cart.php:108
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/layouts/business/cart.php:108
+#: woocommerce/layouts/store/cart.php:108
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/layouts/business/cart.php:113
+#: woocommerce/layouts/store/cart.php:113
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/layouts/store/filter.php:3
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/layouts/store/form-checkout-order_review.php:2
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/layouts/store/view_buttons.php:2
+msgid "View"
+msgstr ""
+
+#: includes/admin/notifications/tgm/main.php:24
+#: includes/admin/notifications/tgm/main.php:26
+#: includes/admin/notifications/tgm/main.php:37
+#, php-format
+msgid "Click to %s"
+msgstr ""
+
+#: includes/admin/notifications/tgm/main.php:54
+msgid "Update all"
+msgstr ""
+
+#: includes/admin/notifications/tgm/main.php:61
+msgid "Pearl WP recommends to install following plugins:"
+msgstr ""
+
+#: includes/admin/notifications/tgm/main.php:66
+msgid "Pearl WP recommends to activate following plugins:"
+msgstr ""
+
+#: includes/admin/notifications/tgm/main.php:71
+msgid "Pearl WP recommends to update following plugins:"
+msgstr ""
+
+#: includes/admin/page_importer/tpl/button.php:3
+msgid "Import page"
+msgstr ""
+
+#: includes/admin/page_importer/tpl/pages.php:22
+msgid ""
+"Importing a single demo page is to receive the skeleton layout only. Please "
+"note you will not receive demo images or sliders so there will be "
+"differences in style and layout compared to the online demos. The items that "
+"import are the builder layout, page template, pearl page options and image "
+"placeholders from unsplash photostock. If you wish to import everything from "
+"a demo, you need to import the full demo on the Pearl > Demo Import tab. The "
+"content of the current page will be replaced after the page import. Page "
+"settings will be changed with the settings of the imported page."
+msgstr ""
+
+#. Name of the theme
+#: includes/admin/product_registration/includes/admin_screens.php:25
+#: includes/admin/product_registration/includes/admin_screens.php:86
+#: includes/theme/vc/modules/breadcrumbs.php:11
+#: includes/theme/vc/modules/button.php:12
+#: includes/theme/vc/modules/call_to_action.php:9
+#: includes/theme/vc/modules/carousel_gallery.php:14
+#: includes/theme/vc/modules/categories.php:12
+#: includes/theme/vc/modules/cf7.php:17 includes/theme/vc/modules/charts.php:12
+#: includes/theme/vc/modules/circle_progress.php:13
+#: includes/theme/vc/modules/color_presentation.php:12
+#: includes/theme/vc/modules/company_history.php:12
+#: includes/theme/vc/modules/contact.php:12
+#: includes/theme/vc/modules/contacts_widget.php:8
+#: includes/theme/vc/modules/countdown.php:15
+#: includes/theme/vc/modules/floating_gallery.php:12
+#: includes/theme/vc/modules/gallery.php:18
+#: includes/theme/vc/modules/google_map.php:17
+#: includes/theme/vc/modules/icon.php:10
+#: includes/theme/vc/modules/iconbox.php:12
+#: includes/theme/vc/modules/icontext.php:14
+#: includes/theme/vc/modules/icon_links.php:12
+#: includes/theme/vc/modules/icon_list.php:11
+#: includes/theme/vc/modules/icon_separator.php:12
+#: includes/theme/vc/modules/infobox.php:12
+#: includes/theme/vc/modules/opening_hours.php:11
+#: includes/theme/vc/modules/opentable_widget.php:10
+#: includes/theme/vc/modules/pages.php:21
+#: includes/theme/vc/modules/pages_grid.php:21
+#: includes/theme/vc/modules/partners.php:13
+#: includes/theme/vc/modules/post_carousel.php:36
+#: includes/theme/vc/modules/post_list.php:17
+#: includes/theme/vc/modules/post_prev_next.php:13
+#: includes/theme/vc/modules/post_timeline.php:13
+#: includes/theme/vc/modules/post_type_list.php:14
+#: includes/theme/vc/modules/post_video.php:14
+#: includes/theme/vc/modules/pricing_table.php:14
+#: includes/theme/vc/modules/pricing_table_flip.php:14
+#: includes/theme/vc/modules/recent_posts.php:15
+#: includes/theme/vc/modules/recent_posts.php:19
+#: includes/theme/vc/modules/schedule.php:16
+#: includes/theme/vc/modules/separator.php:8
+#: includes/theme/vc/modules/services_carousel.php:14
+#: includes/theme/vc/modules/sliding_images.php:11
+#: includes/theme/vc/modules/sliding_images_with_text.php:11
+#: includes/theme/vc/modules/staff.php:14
+#: includes/theme/vc/modules/staff_tabs.php:12
+#: includes/theme/vc/modules/stats_counter.php:13
+#: includes/theme/vc/modules/taxonomy.php:16
+#: includes/theme/vc/modules/tilting_images.php:11
+#: includes/theme/vc/modules/vertical_carousel.php:9
+#: includes/theme/vc/modules/video.php:12
+#: includes/theme/vc/post_types/product.php:13
+#: includes/theme/vc/post_types/product.php:54
+#: includes/theme/vc/post_types/product.php:89
+#: includes/theme/vc/post_types/product.php:184
+#: includes/theme/vc/post_types/services.php:69
+#: partials/header/elements/image/image.php:43
+msgid "Pearl"
+msgstr ""
+
+#: includes/admin/product_registration/includes/admin_screens.php:36
+#: includes/admin/product_registration/includes/admin_screens.php:37
+msgid "My pearl"
+msgstr ""
+
+#: includes/admin/product_registration/includes/admin_screens.php:46
+#: includes/admin/product_registration/includes/admin_screens.php:47
+#: includes/admin/product_registration/includes/admin_screens.php:97
+#: includes/admin/product_registration/includes/admin_screens.php:98
+msgid "Theme options"
+msgstr ""
+
+#: includes/admin/product_registration/includes/admin_screens.php:56
+#: includes/admin/product_registration/includes/admin_screens.php:57
+msgid "Demo import"
+msgstr ""
+
+#: includes/admin/product_registration/includes/admin_screens.php:66
+#: includes/admin/product_registration/includes/admin_screens.php:67
+msgid "System status"
+msgstr ""
+
+#: includes/admin/product_registration/includes/admin_screens.php:76
+#: includes/admin/product_registration/includes/admin_screens.php:77
+#: includes/admin/product_registration/includes/admin_screens.php:194
+msgid "Support"
+msgstr ""
+
+#: includes/admin/product_registration/includes/admin_screens.php:176
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: includes/admin/product_registration/includes/admin_screens.php:182
+msgid "Product Registration"
+msgstr ""
+
+#: includes/admin/product_registration/includes/admin_screens.php:185
+#: includes/admin/product_registration/includes/admin_screens.php:200
+msgid "Install Demos"
+msgstr ""
+
+#: includes/admin/product_registration/includes/admin_screens.php:188
+#: includes/admin/product_registration/includes/admin_screens.php:203
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/partials/tabs.php:42
+msgid "Plugins"
+msgstr ""
+
+#: includes/admin/product_registration/includes/admin_screens.php:191
+#: includes/admin/product_registration/includes/admin_screens.php:206
+msgid "Theme Options"
+msgstr ""
+
+#: includes/admin/product_registration/includes/admin_screens.php:197
+msgid "System Status"
+msgstr ""
+
+#: includes/admin/product_registration/includes/theme.php:193
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:442
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:443
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:151
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:376
+msgid "Install"
+msgstr ""
+
+#: includes/admin/product_registration/includes/theme.php:195
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:131
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:341
+msgid "Activate"
+msgstr ""
+
+#: includes/admin/product_registration/includes/theme.php:238
+#: includes/admin/theme_options/includes/helpers.php:40
+msgid "Error occured"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:10
+msgid "Business"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:13
+msgid "Artist"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:16
+msgid "Portfolio"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:19
+msgid "Restaurant"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:22
+msgid "Construction"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:25
+msgid "Beauty salon"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:28
+msgid "Medical"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:31
+msgid "Charity"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:34
+msgid "Life coach"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:37
+msgid "Transportation"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:40
+msgid "Rental"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:43
+msgid "Personal Blog"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:46
+msgid "Church"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:49
+msgid "Store"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:52
+msgid "Startup"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:69
+msgid ""
+"If you want to import another layout, please <a href=\"https://wordpress."
+"org/plugins/wordpress-reset/\" target=\"_blank\">Reset WordPress</a> "
+"database."
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:84
+msgid "Installed"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:87
+msgid "Import"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:99
+msgid "Demo Installation"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:104
+#: includes/admin/product_registration/screens/install_demo.php:196
+msgid "Installed & Activated"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:104
+msgid "Not installed"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:125
+msgid "Demo content"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:131
+msgid "Setup Layout"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:136
+msgid "\">Activation Token</a> before running the Pearl."
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:195
+msgid "Installing"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:247
+msgid "Importing Demo"
+msgstr ""
+
+#: includes/admin/product_registration/screens/install_demo.php:248
+msgid "Imported"
+msgstr ""
+
+#: includes/admin/product_registration/screens/startup.php:21
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr ""
+
+#: includes/admin/product_registration/screens/startup.php:41
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr ""
+
+#: includes/admin/product_registration/screens/startup.php:61
+msgid "Submit"
+msgstr ""
+
+#: includes/admin/product_registration/screens/startup.php:68
+msgid "Instructions For Generating A Token"
+msgstr ""
+
+#: includes/admin/product_registration/screens/startup.php:70
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged in,"
+" you will be directed to login then directed back to the Create A Token Page."
+msgstr ""
+
+#: includes/admin/product_registration/screens/startup.php:71
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+
+#: includes/admin/product_registration/screens/startup.php:72
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+
+#: includes/admin/product_registration/screens/startup.php:73
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:16
+msgid "Create A Support Account"
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:30
+msgid "Ticket System"
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:33
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:36
+msgid "Submit a ticket"
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:47
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:50
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:53
+#: partials/content/post/archive_layouts/grid/style_10.php:19
+#: partials/content/post/archive_layouts/list/style_10.php:21
+msgid "Learn more"
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:67
+msgid "Video Tutorials"
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:70
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:73
+msgid "Watch Videos"
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:84
+msgid "Community Forum"
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:87
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr ""
+
+#: includes/admin/product_registration/screens/support.php:90
+msgid "Visit Our Forum"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:11
+#: includes/admin/product_registration/screens/system_status.php:15
+msgid "WordPress Environment"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:20
+msgid "Home URL:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:21
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:25
+msgid "Site URL:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:26
+msgid "The root URL of your site."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:30
+msgid "WP Version:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:31
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:35
+msgid "WP Multisite:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:36
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:40
+msgid "WP Memory Limit:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:41
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:50
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:57
+msgid "WP Debug Mode:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:58
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:68
+msgid "Language:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:69
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:75
+#: includes/admin/product_registration/screens/system_status.php:79
+msgid "Server Environment"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:84
+msgid "Server Info:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:85
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:89
+msgid "PHP Version:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:90
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:95
+msgid "PHP Post Max Size:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:96
+msgid "The largest file size that can be contained in one post."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:100
+msgid "PHP Time Limit:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:101
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:107
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:111
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:118
+msgid "PHP Max Input Vars:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:119
+#: includes/admin/product_registration/screens/system_status.php:155
+#: includes/admin/product_registration/screens/system_status.php:184
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:139
+#: includes/admin/product_registration/screens/system_status.php:175
+#: includes/admin/product_registration/screens/system_status.php:204
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:147
+msgid "SUHOSIN Installed:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:148
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:154
+msgid "Suhosin Post Max Vars:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:183
+msgid "Suhosin Request Max Vars:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:212
+msgid "Suhosin Post Max Value Length:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:213
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:219
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:228
+msgid "ZipArchive:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:229
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:233
+msgid "MySQL Version:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:234
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:244
+msgid "Max Upload Size:"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:245
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:251
+#: includes/admin/product_registration/screens/system_status.php:255
+msgid "Active Plugins"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:278
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: includes/admin/product_registration/screens/system_status.php:284
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: includes/admin/theme_options/includes/helpers.php:35
+msgid "Settings Saved"
+msgstr ""
+
+#: includes/admin/theme_options/includes/helpers.php:37
+msgid "Nothing to save"
+msgstr ""
+
+#: includes/theme/vc/modules/breadcrumbs.php:7
+msgid "Breadcrumbs NavXT"
+msgstr ""
+
+#: includes/theme/vc/modules/breadcrumbs.php:13
+msgid "Display breadcrumbs"
+msgstr ""
+
+#: includes/theme/vc/modules/breadcrumbs.php:17
+#: includes/theme/vc/modules/countdown.php:26
+#: includes/theme/vc/modules/icontext.php:60
+#: includes/theme/vc/modules/taxonomy.php:35
+msgid "Text color"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:7
+msgid "Pearl Action Button"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:14
+msgid "Button with custom styles"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:36
+msgid "Button size"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:40
+msgid "Large"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:41
+msgid "Small"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:42
+msgid "Extra small"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:49
+msgid "Button Position"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:55
+#: includes/theme/vc/modules/gallery.php:114
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:87
+#: includes/theme/vc/modules/icon.php:25
+#: includes/theme/vc/modules/icontext.php:114
+#: includes/theme/vc/modules/icon_separator.php:43
+msgid "Icon color"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:116
+msgid "Icon Custom Color on hover"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:128
+msgid "Button icon background"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:140
+msgid "Button icon background on hover"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:152
+msgid "Button icon size"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:164
+#: includes/theme/vc/modules/pricing_table_flip.php:34
+msgid "Subtitle"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:166
+msgid "Button subtitle"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:167
+#: includes/theme/vc/modules/button.php:183
+#: includes/theme/vc/modules/button.php:190
+#: includes/theme/vc/post_types/projects.php:20
+msgid "Advanced"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:188
+msgid "Custom class"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:203
+msgid "With gradient"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:206
+#: includes/theme/vc/modules/button.php:219
+#: includes/theme/vc/modules/button.php:230
+#: includes/theme/vc/modules/button.php:241
+#: includes/theme/vc/modules/button.php:252
+#: includes/theme/vc/modules/button.php:263
+#: includes/theme/vc/modules/button.php:275
+#: includes/theme/vc/modules/button.php:286
+#: includes/theme/vc/modules/button.php:297
+#: includes/theme/vc/modules/button.php:308
+#: includes/theme/vc/modules/button.php:316
+#: includes/theme/vc/modules/button.php:323
+msgid "Colors"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:223
+msgid "Button border color"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:234
+msgid "Button border color on hover"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:245
+msgid "Button background color"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:256
+msgid "Button background color on hover"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:268
+msgid "Button border first color"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:279
+msgid "Button border second color"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:290
+msgid "Button background first color"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:301
+msgid "Button background second color"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:313
+msgid "Button text color"
+msgstr ""
+
+#: includes/theme/vc/modules/button.php:320
+msgid "Button text color on hover"
+msgstr ""
+
+#: includes/theme/vc/modules/call_to_action.php:4
+msgid "Pearl Call to action"
+msgstr ""
+
+#: includes/theme/vc/modules/call_to_action.php:11
+msgid "Text and button"
+msgstr ""
+
+#: includes/theme/vc/modules/call_to_action.php:23
+#: includes/theme/vc/modules/call_to_action.php:36
+#: includes/theme/vc/modules/call_to_action.php:48
+#: includes/theme/vc/modules/call_to_action.php:61
+#: includes/theme/vc/modules/call_to_action.php:73
+#: includes/theme/vc/modules/call_to_action.php:85
+#: includes/theme/vc/modules/call_to_action.php:97
+#: includes/theme/vc/modules/call_to_action.php:109
+#: includes/theme/vc/modules/call_to_action.php:121
+#: includes/theme/vc/modules/call_to_action.php:133
+#: includes/theme/vc/modules/call_to_action.php:144
+msgid "CTA Button"
+msgstr ""
+
+#: includes/theme/vc/modules/call_to_action.php:41
+msgid "Button Custom Color"
+msgstr ""
+
+#: includes/theme/vc/modules/call_to_action.php:54
+msgid "Button Custom Color on hover"
+msgstr ""
+
+#: includes/theme/vc/modules/call_to_action.php:66
+msgid "Button Custom Border Color"
+msgstr ""
+
+#: includes/theme/vc/modules/call_to_action.php:78
+msgid "Button Custom Border Color on hover"
+msgstr ""
+
+#: includes/theme/vc/modules/call_to_action.php:90
+msgid "Button Custom Text Color"
+msgstr ""
+
+#: includes/theme/vc/modules/call_to_action.php:102
+msgid "Button Custom Text Color on hover"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:9
+msgid "Pearl Carousel Gallery"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:16
+msgid "Animated carousel with images"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:20
+#: includes/theme/vc/modules/floating_gallery.php:18
+#: includes/theme/vc/modules/gallery.php:67
+msgid "Images"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:25
+msgid "Image effect"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:29
+msgid "Grayscale"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:30
+msgid "Opacity"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:41
+msgid "Carousel width"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:43
+msgid "Enter carousel width. Ex. : 500px or 70%"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:47
+msgid "Enable LightGallery"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:57
+msgid "Visible images"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:59
+msgid "Images to show"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:60
+#: includes/theme/vc/modules/carousel_gallery.php:67
+#: includes/theme/vc/modules/carousel_gallery.php:78
+#: includes/theme/vc/modules/carousel_gallery.php:89
+#: includes/theme/vc/modules/carousel_gallery.php:100
+#: includes/theme/vc/modules/carousel_gallery.php:108
+#: includes/theme/vc/modules/carousel_gallery.php:119
+#: includes/theme/vc/modules/carousel_gallery.php:133
+#: includes/theme/vc/modules/carousel_gallery.php:144
+#: includes/theme/vc/modules/carousel_gallery.php:155
+#: includes/theme/vc/modules/carousel_gallery.php:170
+#: includes/theme/vc/modules/post_carousel.php:157
+#: includes/theme/vc/modules/post_carousel.php:168
+#: includes/theme/vc/modules/post_carousel.php:179
+#: includes/theme/vc/modules/post_carousel.php:194
+#: includes/theme/vc/modules/post_carousel.php:209
+#: includes/theme/vc/modules/post_carousel.php:224
+#: includes/theme/vc/modules/post_carousel.php:239
+msgid "Carousel Settings"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:65
+msgid "Margin between images"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:72
+msgid "Enable Autoscroll"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:83
+msgid "Enable Navigation"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:94
+msgid "Enable thumbnails"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:105
+msgid "Number of thumbnail in a row"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:107
+msgid "Enter number of visible thumbnails"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:127
+msgid "Enable image description"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:138
+#: includes/theme/vc/modules/post_list.php:92
+msgid "Enable pagination"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:149
+msgid "Enable dots"
+msgstr ""
+
+#: includes/theme/vc/modules/carousel_gallery.php:160
+msgid "Dots position"
+msgstr ""
+
+#: includes/theme/vc/modules/categories.php:7
+msgid "Pearl Categories"
+msgstr ""
+
+#: includes/theme/vc/modules/categories.php:14
+msgid "Display Post Categories"
+msgstr ""
+
+#: includes/theme/vc/modules/cf7.php:11
+msgid "Pearl Contact form 7"
+msgstr ""
+
+#: includes/theme/vc/modules/cf7.php:14
+msgid "All contact forms"
+msgstr ""
+
+#: includes/theme/vc/modules/cf7.php:22
+msgid "Select form"
+msgstr ""
+
+#: includes/theme/vc/modules/cf7.php:28
+msgid "Form id"
+msgstr ""
+
+#: includes/theme/vc/modules/cf7.php:34
+msgid "Form class"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:7
+msgid "Pearl Charts"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:14
+#: includes/theme/vc/modules/circle_progress.php:15
+msgid "Animated charts"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:18
+msgid "Design"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:21
+msgid "Line"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:22
+msgid "Bar"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:23
+msgid "Circle"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:24
+msgid "Pie"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:29
+msgid "Show legend?"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:31
+msgid "If checked, chart will have legend."
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:32
+#: includes/theme/vc/modules/post_carousel.php:186
+#: includes/theme/vc/modules/post_carousel.php:201
+#: includes/theme/vc/modules/post_carousel.php:216
+#: includes/theme/vc/modules/post_carousel.php:231
+#: includes/theme/vc/modules/services_carousel.php:44
+#: includes/theme/vc/modules/services_carousel.php:66
+#: includes/theme/vc/modules/services_carousel.php:76
+#: includes/theme/vc/modules/services_carousel.php:86
+msgid "Yes"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:37
+msgid "Legend Position"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:46
+msgid "Width (px)"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:51
+msgid "Height (px)"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:56
+msgid "X-axis values"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:66
+#: includes/theme/vc/modules/charts.php:109
+msgid "Values"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:74
+#: includes/theme/vc/modules/charts.php:117
+#: includes/theme/vc/post_types/product.php:26
+msgid "One"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:79
+#: includes/theme/vc/modules/charts.php:122
+#: includes/theme/vc/post_types/product.php:27
+msgid "Two"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:89
+#: includes/theme/vc/modules/charts.php:137
+msgid "Enter title for chart dataset."
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:94
+msgid "Y-axis values"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:127
+#: includes/theme/vc/post_types/product.php:28
+#: includes/theme/vc/post_types/product.php:132
+msgid "Three"
+msgstr ""
+
+#: includes/theme/vc/modules/charts.php:142
+msgid "Value"
+msgstr ""
+
+#: includes/theme/vc/modules/circle_progress.php:9
+msgid "Pearl Circle Progress"
+msgstr ""
+
+#: includes/theme/vc/modules/circle_progress.php:21
+msgid "WordPress"
+msgstr ""
+
+#: includes/theme/vc/modules/circle_progress.php:26
+msgid "Value (in %)"
+msgstr ""
+
+#: includes/theme/vc/modules/circle_progress.php:32
+msgid "Circle Width / Height (in px)"
+msgstr ""
+
+#: includes/theme/vc/modules/circle_progress.php:38
+msgid "Fill Color"
+msgstr ""
+
+#: includes/theme/vc/modules/color_presentation.php:7
+msgid "Pearl Color Presentation"
+msgstr ""
+
+#: includes/theme/vc/modules/color_presentation.php:14
+msgid "Color presenation"
+msgstr ""
+
+#: includes/theme/vc/modules/color_presentation.php:24
+#: includes/theme/vc/modules/opening_hours.php:52
+msgid "Text 1"
+msgstr ""
+
+#: includes/theme/vc/modules/color_presentation.php:30
+#: includes/theme/vc/modules/opening_hours.php:62
+msgid "Text 2"
+msgstr ""
+
+#: includes/theme/vc/modules/company_history.php:5
+msgid "Pearl Company History"
+msgstr ""
+
+#: includes/theme/vc/modules/company_history.php:14
+msgid "Historical year and description"
+msgstr ""
+
+#: includes/theme/vc/modules/company_history.php:34
+#: includes/theme/vc/modules/opening_hours.php:24
+msgid "Item"
+msgstr ""
+
+#: includes/theme/vc/modules/company_history.php:40
+msgid "Year"
+msgstr ""
+
+#: includes/theme/vc/modules/company_history.php:51
+#: includes/theme/vc/modules/items_grid.php:39
+#: includes/theme/vc/modules/schedule.php:109
+#: includes/theme/vc/modules/staff.php:114
+msgid "Description"
+msgstr ""
+
+#: includes/theme/vc/modules/contact.php:7
+msgid "Pearl Contact"
+msgstr ""
+
+#: includes/theme/vc/modules/contact.php:14
+msgid "Custom contact block"
+msgstr ""
+
+#: includes/theme/vc/modules/contact.php:23
+#: includes/theme/vc/modules/items_grid.php:34
+#: includes/theme/vc/modules/pricing_table_flip.php:19
+#: includes/theme/vc/modules/sliding_images_with_text.php:17
+msgid "Image"
+msgstr ""
+
+#: includes/theme/vc/modules/contact.php:34
+msgid "Job"
+msgstr ""
+
+#: includes/theme/vc/modules/contact.php:49
+msgid "Skype"
+msgstr ""
+
+#: includes/theme/vc/modules/contacts_widget.php:3
+msgid "Pearl Contacts"
+msgstr ""
+
+#: includes/theme/vc/modules/contacts_widget.php:10
+msgid "Contact info in footer area"
+msgstr ""
+
+#: includes/theme/vc/modules/countdown.php:9
+msgid "Pearl Countdown"
+msgstr ""
+
+#: includes/theme/vc/modules/countdown.php:12
+msgid "Count to date module"
+msgstr ""
+
+#: includes/theme/vc/modules/countdown.php:20
+msgid "Count to date"
+msgstr ""
+
+#: includes/theme/vc/modules/floating_gallery.php:7
+msgid "Floating gallery"
+msgstr ""
+
+#: includes/theme/vc/modules/floating_gallery.php:14
+msgid "Floating carousel with images"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:13
+msgid "Pearl Gallery"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:20
+msgid "Image gallery grid"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:29
+#: includes/theme/vc/modules/icon_links.php:43
+#: includes/theme/vc/modules/staff.php:172
+#: includes/theme/vc/post_types/projects.php:27
+msgid "Link"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:34
+#: includes/theme/vc/post_types/projects.php:64
+msgid "Show category"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:45
+msgid "Select source"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:48
+msgid "Custom images"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:49
+msgid "Post type"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:55
+msgid "Select Post Type"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:71
+msgid "Images Category"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:75
+#: includes/theme/vc/modules/gallery.php:88
+#: includes/theme/vc/modules/vertical_carousel.php:15
+msgid "Select images"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:82
+msgid "Images category"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:100
+#: includes/theme/vc/post_types/projects.php:75
+#: includes/theme/vc/post_types/testimonials.php:20
+#: includes/theme/vc/post_types/videos.php:26
+msgid "Show number"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:106
+#: includes/theme/vc/modules/pages_grid.php:62
+#: includes/theme/vc/modules/post_carousel.php:41
+#: includes/theme/vc/modules/post_list.php:36
+#: includes/theme/vc/post_types/media_events.php:55
+#: includes/theme/vc/post_types/projects.php:80
+#: includes/theme/vc/post_types/services.php:103
+#: includes/theme/vc/post_types/stories.php:50
+msgid "Image size"
+msgstr ""
+
+#: includes/theme/vc/modules/gallery.php:124
+msgid "Enable masonry"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:8
+msgid "Pearl Google maps"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:19
+msgid "Office location with pin on map"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:23
+msgid "Map Height"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:26
+msgid "Enter map height in px"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:30
+msgid "Map Zoom"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:36
+msgid "Marker Image"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:41
+#: includes/theme/vc/modules/google_map.php:44
+msgid "Disable carousel"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:45
+msgid "Enable carousel"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:51
+msgid "Visible items"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:63
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:68
+msgid "Map style"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:74
+#: includes/theme/vc/post_types/services.php:142
+msgid "Extra class name"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:76
+#: includes/theme/vc/post_types/services.php:144
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:120
+msgid "Latitude"
+msgstr ""
+
+#: includes/theme/vc/modules/google_map.php:125
+msgid "Longitude"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:4
+msgid "Pearl Icon"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:5
+msgid "Shows single icon"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:15
+msgid "Icon link"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:32
+#: includes/theme/vc/modules/stats_counter.php:42
+msgid "Enable icon gradient"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:46
+#: includes/theme/vc/modules/stats_counter.php:56
+msgid "Icon gradient first color"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:55
+#: includes/theme/vc/modules/stats_counter.php:65
+msgid "Icon gradient second color"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:64
+msgid "Icon custom color"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:73
+msgid "Icon color on hover"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:82
+msgid "Icon align"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:89
+msgid "Icon size(px)"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:95
+msgid "Enable styled background"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:99
+msgid "Rounded shadow"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:100
+msgid "Icon Round Background"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:106
+msgid "Icon Background color"
+msgstr ""
+
+#: includes/theme/vc/modules/icon.php:115
+msgid "Rounded background size(px)"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:7
+msgid "Pearl Icon Box"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:14
+msgid "Icon and text inside the box"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:30
+msgid "Enable heading divider"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:41
+msgid "Content align"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:52
+msgid "Icon position"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:86
+msgid "Icon Size"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:89
+msgid "Enter icon size in px"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:93
+msgid "Icon Height"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:96
+msgid "Enter icon height in px"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:100
+msgid "Icon Width"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:103
+msgid "Enter icon width in px"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:107
+msgid "Icon Weight"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:110
+#: includes/theme/vc/post_types/product.php:219
+msgid "Normal"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:111
+msgid "Bold"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:122
+msgid "Link IconBox"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:132
+msgid "Link url"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:135
+msgid "Enter url for box"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:143
+msgid "Flip"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:150
+#: includes/theme/vc/modules/iconbox.php:160
+#: includes/theme/vc/modules/iconbox.php:171
+#: includes/theme/vc/modules/iconbox.php:181
+#: includes/theme/vc/modules/iconbox.php:192
+msgid "Flip Icon Box"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:158
+msgid "Flip Title"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:168
+msgid "Flip title color"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:179
+msgid "Flip Content"
+msgstr ""
+
+#: includes/theme/vc/modules/iconbox.php:189
+msgid "Flip content color"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:8
+msgid "Pearl Text with icon"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:9
+msgid "Place a text with custom icon"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:16
+msgid "Pearl - icon with text"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:26
+msgid "Font size"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:36
+msgid "Line height"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:46
+msgid "Font-family"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:49
+msgid "Primary font"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:50
+msgid "Secondary font"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:64
+#: includes/theme/vc/modules/icontext.php:118
+#: includes/theme/vc/post_types/music.php:27
+msgid "Primary color"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:69
+#: includes/theme/vc/modules/stats_counter.php:114
+#: includes/theme/vc/post_types/music.php:32
+msgid "Select text color"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:74
+#: includes/theme/vc/modules/stats_counter.php:119
+msgid "Text Custom Color"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:84
+msgid "Text link"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:89
+#: includes/theme/vc/modules/icon_list.php:22
+msgid "Text icon"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:94
+#: includes/theme/vc/modules/icon_separator.php:59
+msgid "Icon size"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:104
+msgid "Icon margin"
+msgstr ""
+
+#: includes/theme/vc/modules/icontext.php:142
+#: includes/theme/vc/modules/taxonomy.php:45
+msgid "Text align"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_links.php:7
+msgid "Pearl Icon links"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_links.php:14
+msgid "Icon with link"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_links.php:18
+msgid "Icons"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_links.php:26
+msgid "Icon Link"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_links.php:30
+#: includes/theme/vc/modules/icon_links.php:49
+msgid "Subheading (not required)"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_list.php:5
+msgid "Pearl Icon list"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_list.php:6
+msgid "Place an <ul> list with custom icons"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_list.php:27
+msgid "Icon size (px)"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_list.php:32
+msgid "Line-height (px)"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_list.php:49
+msgid "Margins between"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_separator.php:6
+msgid "Pearl Icon separator"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_separator.php:7
+msgid "Divider line with icon"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_separator.php:17
+msgid "Border color"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_separator.php:29
+msgid "Custom border color"
+msgstr ""
+
+#: includes/theme/vc/modules/icon_separator.php:50
+msgid "Custom icon color"
+msgstr ""
+
+#: includes/theme/vc/modules/infobox.php:7
+msgid "Pearl Infobox"
+msgstr ""
+
+#: includes/theme/vc/modules/infobox.php:14
+#: includes/theme/vc/post_types/media_events.php:16
+#: includes/theme/vc/post_types/media_events.php:40
+msgid "Text information"
+msgstr ""
+
+#: includes/theme/vc/modules/infobox.php:18
+msgid "Infobox Image"
+msgstr ""
+
+#: includes/theme/vc/modules/infobox.php:30
+msgid "Infobox URL"
+msgstr ""
+
+#: includes/theme/vc/modules/infobox.php:35
+msgid "Link title attribute"
+msgstr ""
+
+#: includes/theme/vc/modules/items_grid.php:6
+msgid "Items Grid"
+msgstr ""
+
+#: includes/theme/vc/modules/items_grid.php:11
+msgid "Item Info"
+msgstr ""
+
+#: includes/theme/vc/modules/items_grid.php:28
+msgid "Badge"
+msgstr ""
+
+#: includes/theme/vc/modules/items_grid.php:44
+msgid "Features title"
+msgstr ""
+
+#: includes/theme/vc/modules/items_grid.php:49
+msgid "Features (comma separated)"
+msgstr ""
+
+#: includes/theme/vc/modules/items_grid.php:59
+msgid "Button URL"
+msgstr ""
+
+#: includes/theme/vc/modules/items_grid.php:64
+msgid "Preview text"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:3
+msgid "Pearl Opening Hours"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:13
+msgid "Working days with hours"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:30
+msgid "Day"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:44
+#: includes/theme/vc/modules/opening_hours.php:54
+msgid "Output"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:64
+msgid "On this day we rest"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:72
+#: includes/theme/vc/modules/schedule.php:33
+msgid "Time Format"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:78
+msgid "Opening Time"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:81
+#: includes/theme/vc/modules/opening_hours.php:88
+msgid "Working Time"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:85
+msgid "Closing Time"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:92
+msgid "Start Lunch"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:95
+#: includes/theme/vc/modules/opening_hours.php:102
+msgid "Lunch Time"
+msgstr ""
+
+#: includes/theme/vc/modules/opening_hours.php:99
+msgid "End Lunch"
+msgstr ""
+
+#: includes/theme/vc/modules/opentable_widget.php:4
+msgid "Pearl Open Table Widget"
+msgstr ""
+
+#: includes/theme/vc/modules/opentable_widget.php:7
+msgid "Table reservation module"
+msgstr ""
+
+#: includes/theme/vc/modules/opentable_widget.php:22
+msgid "Your Restaurant ID"
+msgstr ""
+
+#: includes/theme/vc/modules/pages.php:16
+msgid "Pearl Pages"
+msgstr ""
+
+#: includes/theme/vc/modules/pages.php:25
+msgid "Extra links in footer widget"
+msgstr ""
+
+#: includes/theme/vc/modules/pages.php:29
+#: includes/theme/vc/modules/pages_grid.php:28
+msgid "Widget title"
+msgstr ""
+
+#: includes/theme/vc/modules/pages.php:31
+#: includes/theme/vc/modules/pages_grid.php:30
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: includes/theme/vc/modules/pages.php:35
+#: includes/theme/vc/modules/pages_grid.php:34
+#: includes/theme/vc/post_types/product.php:93
+msgid "Order by"
+msgstr ""
+
+#: includes/theme/vc/modules/pages.php:42
+#: includes/theme/vc/modules/pages_grid.php:41
+msgid "Select how to sort pages."
+msgstr ""
+
+#: includes/theme/vc/modules/pages.php:47
+#: includes/theme/vc/modules/pages_grid.php:46
+#: includes/theme/vc/modules/post_carousel.php:86
+msgid "Include"
+msgstr ""
+
+#: includes/theme/vc/modules/pages.php:49
+#: includes/theme/vc/modules/pages_grid.php:48
+msgid "Enter page IDs to be included (Note: separate values by commas (,))."
+msgstr ""
+
+#: includes/theme/vc/modules/pages_grid.php:16
+msgid "Pearl Pages Grid"
+msgstr ""
+
+#: includes/theme/vc/modules/pages_grid.php:64
+msgid "Enter image size. Ex.: 300x200"
+msgstr ""
+
+#: includes/theme/vc/modules/partners.php:7
+msgid "Pearl Partners"
+msgstr ""
+
+#: includes/theme/vc/modules/partners.php:8
+msgid "Logos of partners"
+msgstr ""
+
+#: includes/theme/vc/modules/partners.php:18
+msgid "Partners"
+msgstr ""
+
+#: includes/theme/vc/modules/partners.php:26
+msgid "Partner Link"
+msgstr ""
+
+#: includes/theme/vc/modules/partners.php:30
+#: includes/theme/vc/modules/partners.php:53
+msgid "Partner Title"
+msgstr ""
+
+#: includes/theme/vc/modules/partners.php:34
+#: includes/theme/vc/modules/partners.php:59
+msgid "Partner Description"
+msgstr ""
+
+#: includes/theme/vc/modules/partners.php:47
+msgid "Partner link"
+msgstr ""
+
+#: includes/theme/vc/modules/partners.php:74
+msgid "Grayscale effect"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:30
+msgid "Pearl Posts Carousel"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:33
+msgid "Widget with carousel of posts"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:46
+#: includes/theme/vc/modules/post_list.php:53
+msgid "Show Title"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:49
+#: includes/theme/vc/modules/post_carousel.php:118
+#: includes/theme/vc/modules/post_carousel.php:125
+#: includes/theme/vc/modules/post_carousel.php:132
+#: includes/theme/vc/modules/post_carousel.php:139
+#: includes/theme/vc/modules/post_carousel.php:146
+#: includes/theme/vc/modules/post_list.php:49
+#: includes/theme/vc/modules/post_list.php:56
+#: includes/theme/vc/modules/post_list.php:63
+#: includes/theme/vc/modules/post_list.php:74
+#: includes/theme/vc/modules/post_list.php:81
+#: includes/theme/vc/modules/post_list.php:88
+#: includes/theme/vc/modules/post_list.php:94
+msgid "Content options"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:53
+msgid "Post format"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:60
+msgid "Post filter"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:75
+msgid "Select order"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:78
+msgid "Last"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:79
+msgid "Random"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:80
+msgid "Custom select"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:88
+msgid "Enter posts titles to include"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:106
+msgid "All news page link"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:115
+msgid "Show Category"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:122
+#: includes/theme/vc/modules/post_list.php:60
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:129
+#: includes/theme/vc/modules/post_list.php:67
+msgid "Show Views"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:136
+#: includes/theme/vc/modules/post_list.php:78
+msgid "Show Comments"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:143
+#: includes/theme/vc/modules/post_list.php:85
+#: includes/theme/vc/post_types/vacancies.php:40
+msgid "Show Date"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:150
+msgid "Colums number in Desktop"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:161
+msgid "Columns number in Laptop"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:172
+msgid "Columns number in Tablet"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:183
+msgid "Arrows"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:187
+#: includes/theme/vc/modules/post_carousel.php:202
+#: includes/theme/vc/modules/post_carousel.php:217
+#: includes/theme/vc/modules/post_carousel.php:232
+msgid "No"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:198
+msgid "Bullets"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:213
+msgid "Autoplay"
+msgstr ""
+
+#: includes/theme/vc/modules/post_carousel.php:228
+msgid "Loop"
+msgstr ""
+
+#: includes/theme/vc/modules/post_list.php:11
+msgid "Pearl Posts List"
+msgstr ""
+
+#: includes/theme/vc/modules/post_list.php:14
+#: includes/theme/vc/modules/post_type_list.php:11
+msgid "Widget with list of posts"
+msgstr ""
+
+#: includes/theme/vc/modules/post_list.php:28
+msgid "Posts Source"
+msgstr ""
+
+#: includes/theme/vc/modules/post_list.php:41
+#: includes/theme/vc/modules/post_type_list.php:30
+#: includes/theme/vc/post_types/events.php:15
+#: includes/theme/vc/post_types/media_events.php:44
+#: includes/theme/vc/post_types/music.php:44
+#: includes/theme/vc/post_types/stories.php:21
+#: includes/theme/vc/post_types/stories.php:39
+msgid "Number of posts"
+msgstr ""
+
+#: includes/theme/vc/modules/post_list.php:46
+#: includes/theme/vc/post_types/testimonials.php:62
+msgid "Show Image"
+msgstr ""
+
+#: includes/theme/vc/modules/post_list.php:98
+msgid "Pagination style"
+msgstr ""
+
+#: includes/theme/vc/modules/post_list.php:102
+msgid "Ajax"
+msgstr ""
+
+#: includes/theme/vc/modules/post_prev_next.php:7
+msgid "Pearl Posts Prev and Next Thumbnails"
+msgstr ""
+
+#: includes/theme/vc/modules/post_prev_next.php:10
+msgid "Displays post prev and next links with thumbnails"
+msgstr ""
+
+#: includes/theme/vc/modules/post_timeline.php:7
+msgid "Pearl Timeline"
+msgstr ""
+
+#: includes/theme/vc/modules/post_timeline.php:10
+msgid "Posts in timeline style"
+msgstr ""
+
+#: includes/theme/vc/modules/post_timeline.php:18
+msgid "Check taxonomy to show posts"
+msgstr ""
+
+#: includes/theme/vc/modules/post_timeline.php:35
+msgid "Enter categories, tags or custom taxonomies."
+msgstr ""
+
+#: includes/theme/vc/modules/post_timeline.php:39
+msgid "Title length"
+msgstr ""
+
+#: includes/theme/vc/modules/post_timeline.php:45
+#: includes/theme/vc/modules/recent_posts.php:30
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/theme/vc/modules/post_timeline.php:51
+msgid "Show year"
+msgstr ""
+
+#: includes/theme/vc/modules/post_timeline.php:57
+msgid "Show title"
+msgstr ""
+
+#: includes/theme/vc/modules/post_type_list.php:8
+msgid "Pearl Post Type List"
+msgstr ""
+
+#: includes/theme/vc/modules/post_type_list.php:24
+msgid "Post Source"
+msgstr ""
+
+#: includes/theme/vc/modules/post_video.php:8
+msgid "Pearl Posts Video"
+msgstr ""
+
+#: includes/theme/vc/modules/post_video.php:11
+msgid "Widget with video of posts"
+msgstr ""
+
+#: includes/theme/vc/modules/pricing_table.php:8
+msgid "Pearl Pricing Tables"
+msgstr ""
+
+#: includes/theme/vc/modules/pricing_table.php:11
+#: includes/theme/vc/modules/pricing_table_flip.php:11
+msgid "Table with prices"
+msgstr ""
+
+#: includes/theme/vc/modules/pricing_table.php:24
+msgid "Prefix"
+msgstr ""
+
+#: includes/theme/vc/modules/pricing_table.php:34
+msgid "Separator"
+msgstr ""
+
+#: includes/theme/vc/modules/pricing_table.php:39
+msgid "Postfix"
+msgstr ""
+
+#: includes/theme/vc/modules/pricing_table.php:44
+#: includes/theme/vc/modules/pricing_table_flip.php:44
+#: includes/theme/vc/post_types/services.php:136
+msgid "Button"
+msgstr ""
+
+#: includes/theme/vc/modules/pricing_table.php:49
+msgid "Label Text"
+msgstr ""
+
+#: includes/theme/vc/modules/pricing_table_flip.php:8
+msgid "Pearl Pricing Tables With Flip Effect"
+msgstr ""
+
+#: includes/theme/vc/modules/recent_posts.php:8
+msgid "Pearl Recent posts widget"
+msgstr ""
+
+#: includes/theme/vc/modules/recent_posts.php:11
+msgid "Pearl Widgets"
+msgstr ""
+
+#: includes/theme/vc/modules/recent_posts.php:12
+msgid "Recent posts widget"
+msgstr ""
+
+#: includes/theme/vc/modules/recent_posts.php:36
+msgid "Display post date"
+msgstr ""
+
+#: includes/theme/vc/modules/recent_posts.php:45
+msgid "Display post image"
+msgstr ""
+
+#: includes/theme/vc/modules/schedule.php:6
+msgid "Pearl Schedule Tabs"
+msgstr ""
+
+#: includes/theme/vc/modules/schedule.php:13
+msgid "Events schedule"
+msgstr ""
+
+#: includes/theme/vc/modules/schedule.php:21
+msgid "Date Format"
+msgstr ""
+
+#: includes/theme/vc/modules/schedule.php:58
+msgid "Schedule Item"
+msgstr ""
+
+#: includes/theme/vc/modules/schedule.php:71
+msgid "Date"
+msgstr ""
+
+#: includes/theme/vc/modules/schedule.php:77
+msgid "Lessons Info"
+msgstr ""
+
+#: includes/theme/vc/modules/schedule.php:88
+msgid "Time start"
+msgstr ""
+
+#: includes/theme/vc/modules/schedule.php:93
+#: includes/theme/vc/post_types/product.php:210
+msgid "Time end"
+msgstr ""
+
+#: includes/theme/vc/modules/schedule.php:98
+#: partials/content/stm_events/single/_address_info.php:26
+msgid "Location"
+msgstr ""
+
+#: includes/theme/vc/modules/schedule.php:114
+msgid "Select speakers"
+msgstr ""
+
+#: includes/theme/vc/modules/separator.php:4
+msgid "Pearl Separator"
+msgstr ""
+
+#: includes/theme/vc/modules/separator.php:5
+msgid "Divider line"
+msgstr ""
+
+#: includes/theme/vc/modules/separator.php:32
+msgid "Separator width"
+msgstr ""
+
+#: includes/theme/vc/modules/separator.php:38
+msgid "Separator height"
+msgstr ""
+
+#: includes/theme/vc/modules/separator.php:55
+msgid "Separator Design options"
+msgstr ""
+
+#: includes/theme/vc/modules/separator.php:57
+msgid "Separator Design"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:7
+msgid "Pearl Services Carousel"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:11
+msgid "Carousel with services"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:24
+msgid "Number Posts"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:30
+msgid "Styles"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:33
+msgid "Style 1"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:34
+msgid "Style 2"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:36
+#: includes/theme/vc/modules/services_carousel.php:46
+#: includes/theme/vc/modules/services_carousel.php:58
+#: includes/theme/vc/modules/services_carousel.php:68
+#: includes/theme/vc/modules/services_carousel.php:78
+#: includes/theme/vc/modules/services_carousel.php:88
+#: includes/theme/vc/modules/services_carousel.php:95
+#: includes/theme/vc/modules/services_carousel.php:103
+#: includes/theme/vc/modules/services_carousel.php:111
+#: includes/theme/vc/modules/services_carousel.php:119
+#: includes/theme/vc/modules/services_carousel.php:127
+#: includes/theme/vc/post_types/music.php:55
+#: includes/theme/vc/post_types/product.php:140
+#: includes/theme/vc/post_types/testimonials.php:25
+msgid "Carousel"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:40
+msgid "Slider autoplay"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:42
+msgid "Enable autoplay mode."
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:50
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:53
+msgid "Autoplay interval timeout (in ms)."
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:62
+msgid "Hide pagination control"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:64
+msgid "If checked, pagination controls will be hidden."
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:72
+msgid "Enable arrows control"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:74
+msgid "If checked, arrows controls will be show."
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:82
+msgid "Slider loop"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:84
+msgid "Enable slider loop mode."
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:92
+msgid "Smart Speed"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:99
+msgid "Items"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:102
+msgid "The number of items you want to see on the screen."
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:107
+msgid "Items (Small Desktop)"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:110
+msgid ""
+"Number of items the carousel will display. Default: at <980px - 3 items."
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:115
+msgid "Items (Tablet)"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:118
+msgid ""
+"Number of items the carousel will display. Default: at <768px - 2 items."
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:123
+msgid "Items (Mobile)"
+msgstr ""
+
+#: includes/theme/vc/modules/services_carousel.php:126
+msgid "Number of items the carousel will display. Default: at <479px - 1 item."
+msgstr ""
+
+#: includes/theme/vc/modules/sliding_images.php:7
+msgid "Pearl Sliding Images"
+msgstr ""
+
+#: includes/theme/vc/modules/sliding_images.php:13
+#: includes/theme/vc/modules/sliding_images_with_text.php:13
+#: includes/theme/vc/modules/tilting_images.php:13
+msgid "Custom images block"
+msgstr ""
+
+#: includes/theme/vc/modules/sliding_images.php:17
+msgid "Image Left"
+msgstr ""
+
+#: includes/theme/vc/modules/sliding_images.php:22
+msgid "Left Image Size"
+msgstr ""
+
+#: includes/theme/vc/modules/sliding_images.php:29
+msgid "Image Right"
+msgstr ""
+
+#: includes/theme/vc/modules/sliding_images.php:34
+msgid "Right Image Size"
+msgstr ""
+
+#: includes/theme/vc/modules/sliding_images_with_text.php:7
+msgid "Pearl Sliding Image with Text"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:5
+msgid "Pearl Staff"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:11
+msgid "Team overview"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:19
+#: includes/theme/vc/post_types/services.php:148
+msgid "Layout"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:22
+msgid "List style"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:23
+msgid "Grid style"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:30
+msgid "Enable Carousel"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:35
+#: includes/theme/vc/post_types/product.php:150
+msgid "Enable arrows"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:45
+#: includes/theme/vc/post_types/product.php:159
+msgid "Enable Autoplay"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:69
+msgid "Staff element"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:83
+msgid "Staff Image"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:94
+msgid "Job Title"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:104
+#: partials/content/stm_events/single/_join_form_2.php:44
+msgid "Phone number"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:109
+msgid "Skype ID"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:119
+msgid "Full Description"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:126
+#: includes/theme/vc/modules/staff.php:132
+#: includes/theme/vc/modules/staff.php:138
+#: includes/theme/vc/modules/staff.php:144
+#: includes/theme/vc/modules/staff.php:150
+msgid "Socials"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:136
+msgid "Linkedin"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:142
+msgid "Google plus"
+msgstr ""
+
+#: includes/theme/vc/modules/staff.php:158
+msgid "Staff Call to Action"
+msgstr ""
+
+#: includes/theme/vc/modules/staff_tabs.php:6
+msgid "Pearl Staff Tabs"
+msgstr ""
+
+#: includes/theme/vc/modules/stats_counter.php:6
+msgid "Pearl Stats Counter"
+msgstr ""
+
+#: includes/theme/vc/modules/stats_counter.php:7
+msgid "Counters with statistics"
+msgstr ""
+
+#: includes/theme/vc/modules/stats_counter.php:85
+msgid "Counter Value"
+msgstr ""
+
+#: includes/theme/vc/modules/stats_counter.php:91
+msgid "Value affix"
+msgstr ""
+
+#: includes/theme/vc/modules/stats_counter.php:96
+msgid "Value prefix"
+msgstr ""
+
+#: includes/theme/vc/modules/stats_counter.php:101
+msgid "Thousandth separator"
+msgstr ""
+
+#: includes/theme/vc/modules/stats_counter.php:106
+msgid "Text Color"
+msgstr ""
+
+#: includes/theme/vc/modules/stats_counter.php:129
+msgid "Duration"
+msgstr ""
+
+#: includes/theme/vc/modules/taxonomy.php:10
+msgid "Pearl Post taxonomy"
+msgstr ""
+
+#: includes/theme/vc/modules/taxonomy.php:13
+msgid "Shows terms of current post in selected taxonomy"
+msgstr ""
+
+#: includes/theme/vc/modules/taxonomy.php:21
+#: includes/theme/vc/post_types/services.php:18
+#: includes/theme/vc/post_types/services.php:73
+msgid "Select taxonomy"
+msgstr ""
+
+#: includes/theme/vc/modules/taxonomy.php:40
+msgid "Background color"
+msgstr ""
+
+#: includes/theme/vc/modules/tilting_images.php:7
+msgid "Pearl Tilting Images"
+msgstr ""
+
+#: includes/theme/vc/modules/tilting_images.php:17
+msgid "Image Top"
+msgstr ""
+
+#: includes/theme/vc/modules/tilting_images.php:22
+msgid "Top Image Size"
+msgstr ""
+
+#: includes/theme/vc/modules/tilting_images.php:29
+msgid "Image Bottom"
+msgstr ""
+
+#: includes/theme/vc/modules/tilting_images.php:34
+msgid "Bottom Image Size"
+msgstr ""
+
+#: includes/theme/vc/modules/vertical_carousel.php:3
+msgid "Pearl Vertical carousel"
+msgstr ""
+
+#: includes/theme/vc/modules/vertical_carousel.php:6
+msgid "Vertical carousel with images"
+msgstr ""
+
+#: includes/theme/vc/modules/vertical_carousel.php:28
+msgid "Tablet images number"
+msgstr ""
+
+#: includes/theme/vc/modules/vertical_carousel.php:34
+msgid "Mobile images number"
+msgstr ""
+
+#: includes/theme/vc/modules/video.php:7
+msgid "Pearl Video Popup"
+msgstr ""
+
+#: includes/theme/vc/modules/video.php:9
+msgid "Video element"
+msgstr ""
+
+#: includes/theme/vc/modules/video.php:18
+msgid "Video URL"
+msgstr ""
+
+#: includes/theme/vc/modules/video.php:23
+msgid "Video Poster"
+msgstr ""
+
+#: includes/theme/vc/modules/video.php:28
+msgid "Poster height"
+msgstr ""
+
+#: includes/theme/vc/modules/video.php:33
+msgid "Video view type"
+msgstr ""
+
+#: includes/theme/vc/modules/video.php:36
+msgid "View in popup"
+msgstr ""
+
+#: includes/theme/vc/modules/video.php:37
+msgid "View in window"
+msgstr ""
+
+#: includes/theme/vc/post_types/donations.php:3
+msgid "Pearl Donations"
+msgstr ""
+
+#: includes/theme/vc/post_types/donations.php:7
+msgid "List of donation posts"
+msgstr ""
+
+#: includes/theme/vc/post_types/donations.php:12
+#: includes/theme/vc/post_types/services.php:32
+msgid "Number of services to display"
+msgstr ""
+
+#: includes/theme/vc/post_types/donations.php:18
+#: includes/theme/vc/post_types/events.php:42
+#: includes/theme/vc/post_types/services.php:38
+msgid "Enable Pagination"
+msgstr ""
+
+#: includes/theme/vc/post_types/events.php:7
+msgid "Events List"
+msgstr ""
+
+#: includes/theme/vc/post_types/events.php:11
+msgid "List of events posts"
+msgstr ""
+
+#: includes/theme/vc/post_types/events.php:20
+msgid "Show past events"
+msgstr ""
+
+#: includes/theme/vc/post_types/events.php:26
+msgid "Show upcoming events"
+msgstr ""
+
+#: includes/theme/vc/post_types/events.php:32
+msgid "Enable Load more button"
+msgstr ""
+
+#: includes/theme/vc/post_types/events.php:51
+msgid "Inverted"
+msgstr ""
+
+#: includes/theme/vc/post_types/media_events.php:12
+msgid "Pearl Media Events List"
+msgstr ""
+
+#: includes/theme/vc/post_types/media_events.php:25
+msgid "Posts number"
+msgstr ""
+
+#: includes/theme/vc/post_types/media_events.php:26
+msgid "0 for all posts"
+msgstr ""
+
+#: includes/theme/vc/post_types/media_events.php:36
+msgid "Pearl Media Events"
+msgstr ""
+
+#: includes/theme/vc/post_types/media_events.php:49
+#: includes/theme/vc/post_types/stories.php:44
+msgid "Show pagination"
+msgstr ""
+
+#: includes/theme/vc/post_types/music.php:10
+msgid "Pearl Album List"
+msgstr ""
+
+#: includes/theme/vc/post_types/music.php:13
+msgid "List of albums"
+msgstr ""
+
+#: includes/theme/vc/post_types/music.php:30
+msgid "White color"
+msgstr ""
+
+#: includes/theme/vc/post_types/music.php:37
+#: includes/theme/vc/post_types/product.php:17
+#: includes/theme/vc/post_types/product.php:113
+msgid "Category"
+msgstr ""
+
+#: includes/theme/vc/post_types/music.php:49
+msgid "Images size"
+msgstr ""
+
+#: includes/theme/vc/post_types/music.php:69
+msgid "Pearl Album Info"
+msgstr ""
+
+#: includes/theme/vc/post_types/music.php:72
+msgid "List of tracks"
+msgstr ""
+
+#: includes/theme/vc/post_types/music.php:82
+msgid "Choose Album"
+msgstr ""
+
+#: includes/theme/vc/post_types/music.php:88
+msgid "Inversed"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:9
+msgid "Product category link"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:10
+msgid "STM Woocommerce products categories"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:23
+#: includes/theme/vc/post_types/product.php:129
+msgid "Columns"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:29
+#: includes/theme/vc/post_types/product.php:133
+msgid "Four"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:36
+msgid "Custom button text"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:38
+msgid "If you need to change button text"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:51
+msgid "Show product by title"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:58
+#: includes/theme/vc/post_types/product.php:188
+msgid "Select product"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:85
+msgid "Products"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:86
+msgid "STM Woocommerce products"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:97
+msgid "Best sellers"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:103
+msgid "Filter by"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:107
+msgid "Categories"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:123
+msgid "Per Page"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:125
+msgid "Number of products to show"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:180
+msgid "Special Product"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:181
+msgid "Show special product by title"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:203
+msgid "Date end"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:216
+msgid "Block size"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:220
+msgid "Big"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:226
+msgid "Box title"
+msgstr ""
+
+#: includes/theme/vc/post_types/product.php:248
+msgid "Desctop (max 1300px) Spacer height"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:9
+msgid "Pearl Projects carousel"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:11
+msgid "Images carousel for a project"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:13
+#: includes/theme/vc/post_types/testimonials.php:11
+msgid "Carousels"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:17
+msgid "Carousel Style"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:21
+msgid "Simple"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:36
+msgid "Full width"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:50
+msgid "Enable filter"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:84
+#: includes/theme/vc/post_types/projects.php:95
+msgid "Carousel settings"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:88
+#: includes/theme/vc/post_types/testimonials.php:68
+msgid "Autoscroll"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:103
+msgid "Pearl Projects Details"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:105
+msgid "Project with description elements"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:119
+msgid "Site URL"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:133
+msgid "Pearl Projects Cards"
+msgstr ""
+
+#: includes/theme/vc/post_types/projects.php:139
+msgid "Carousel hint text"
+msgstr ""
+
+#: includes/theme/vc/post_types/services.php:10
+msgid "Pearl Services Grid"
+msgstr ""
+
+#: includes/theme/vc/post_types/services.php:12
+msgid "List of services posts"
+msgstr ""
+
+#: includes/theme/vc/post_types/services.php:48
+#: includes/theme/vc/post_types/services.php:113
+msgid "Excerpt length"
+msgstr ""
+
+#: includes/theme/vc/post_types/services.php:65
+msgid "Pearl Services Price List"
+msgstr ""
+
+#: includes/theme/vc/post_types/services.php:68
+msgid "Pricing list"
+msgstr ""
+
+#: includes/theme/vc/post_types/services.php:93
+msgid "Show image"
+msgstr ""
+
+#: includes/theme/vc/post_types/services.php:119
+msgid "Enable post link"
+msgstr ""
+
+#: includes/theme/vc/post_types/services.php:126
+msgid "Enable lightbox"
+msgstr ""
+
+#: includes/theme/vc/post_types/services.php:151
+msgid "Tabs"
+msgstr ""
+
+#: includes/theme/vc/post_types/services.php:152
+msgid "List"
+msgstr ""
+
+#: includes/theme/vc/post_types/stories.php:7
+msgid "Stories Carousel"
+msgstr ""
+
+#: includes/theme/vc/post_types/stories.php:9
+msgid "Testimonials with before/after image"
+msgstr ""
+
+#: includes/theme/vc/post_types/stories.php:31
+msgid "Pearl Stories List"
+msgstr ""
+
+#: includes/theme/vc/post_types/stories.php:33
+msgid "List of stories"
+msgstr ""
+
+#: includes/theme/vc/post_types/testimonials.php:7
+msgid "Pearl Testimonials"
+msgstr ""
+
+#: includes/theme/vc/post_types/testimonials.php:9
+msgid "Reviews from customers"
+msgstr ""
+
+#: includes/theme/vc/post_types/testimonials.php:35
+#: includes/theme/vc/post_types/testimonials.php:45
+msgid "Show number in row"
+msgstr ""
+
+#: includes/theme/vc/post_types/testimonials.php:82
+msgid "Show review text symbols"
+msgstr ""
+
+#: includes/theme/vc/post_types/testimonials.php:85
+msgid "You can set number of symbols to crop review text"
+msgstr ""
+
+#: includes/theme/vc/post_types/testimonials.php:89
+msgid "Show bullets"
+msgstr ""
+
+#: includes/theme/vc/post_types/testimonials.php:103
+msgid "Show arows"
+msgstr ""
+
+#: includes/theme/vc/post_types/testimonials.php:118
+msgid "Avatar size"
+msgstr ""
+
+#: includes/theme/vc/post_types/vacancies.php:7
+msgid "Pearl Vacancies"
+msgstr ""
+
+#: includes/theme/vc/post_types/vacancies.php:9
+msgid "Career opportunities"
+msgstr ""
+
+#: includes/theme/vc/post_types/vacancies.php:15
+msgid "Number of vacancies to display"
+msgstr ""
+
+#: includes/theme/vc/post_types/vacancies.php:20
+msgid "Show Department"
+msgstr ""
+
+#: includes/theme/vc/post_types/vacancies.php:30
+msgid "Show Location"
+msgstr ""
+
+#: includes/theme/vc/post_types/videos.php:7
+msgid "Pearl Videos List"
+msgstr ""
+
+#: includes/theme/vc/post_types/videos.php:9
+msgid "List of videos"
+msgstr ""
+
+#: includes/theme/vc/post_types/videos.php:20
+msgid "Video poster size"
+msgstr ""
+
+#: includes/theme/vc/post_types/videos.php:21
+msgid "Ex.: 1280x768"
+msgstr ""
+
+#: partials/content/post/layouts/layout_10.php:25
+#: partials/content/post/layouts/layout_10.php:44
+#: partials/content/post/parts/postinfo-2.php:8
+#: partials/content/post/parts/postinfo-3.php:7
+#: partials/content/post/parts/postinfo-4.php:15
+#: partials/content/post/parts/postinfo.php:9
+msgid "Posted by:"
+msgstr ""
+
+#: partials/content/post/layouts/layout_11.php:15
+#, php-format
+msgid "%s by %1s"
+msgstr ""
+
+#: partials/content/post/layouts/layout_12.php:72
+#: partials/content/post/layouts/layout_14.php:85
+#: partials/content/post/layouts/layout_15.php:74
+#: partials/content/post/layouts/layout_16.php:72
+msgid "Written by:"
+msgstr ""
+
+#: partials/content/post/layouts/layout_17.php:44
+#: partials/content/post/layouts/layout_18.php:47
+#: partials/content/post/layouts/layout_19.php:39
+#: partials/content/post/layouts/layout_20.php:63
+#: partials/content/post/layouts/layout_21.php:63
+msgid "by:"
+msgstr ""
+
+#: partials/content/post/layouts/layout_18.php:86
+#: partials/content/post/layouts/layout_19.php:87
+#: partials/content/post/layouts/layout_20.php:113
+msgid "React"
+msgstr ""
+
+#: partials/content/post/parts/after_content.php:22
+msgid "Recommended Articles"
+msgstr ""
+
+#: partials/content/post/parts/postinfo-13.php:8
+#: partials/content/post/single/_author.php:12
+msgid "Author:"
+msgstr ""
+
+#: partials/content/post/parts/postinfo-13.php:11
+msgid "Posted in:"
+msgstr ""
+
+#: partials/content/post/parts/postinfo-13.php:17
+msgid "Comments:"
+msgstr ""
+
+#: partials/content/post/parts/postinfo-4.php:8
+#: partials/content/post/archive_layouts/list/style_4.php:36
+msgid "Comments: "
+msgstr ""
+
+#: partials/content/post/parts/prev_next_posts.php:8
+#: partials/content/post/parts/prev_next_posts_2.php:8
+#: partials/content/post/parts/prev_next_posts_3.php:8
+#: partials/content/post/parts/prev_next_posts_4.php:8
+msgid "Post"
+msgstr ""
+
+#: partials/content/post/parts/prev_next_posts.php:16
+#: partials/content/post/parts/prev_next_posts_4.php:16
+#, php-format
+msgid "Previous %s"
+msgstr ""
+
+#: partials/content/post/parts/prev_next_posts.php:25
+#: partials/content/post/parts/prev_next_posts_4.php:25
+msgid "Next post"
+msgstr ""
+
+#: partials/content/stm_events/single/_actions.php:12
+#: partials/content/stm_events/single/_actions_2.php:12
+msgid "Europe/London"
+msgstr ""
+
+#: partials/content/stm_events/single/_actions.php:22
+#: partials/content/stm_events/single/_actions_2.php:22
+msgid "Save event to calendar"
+msgstr ""
+
+#: partials/content/stm_events/single/_address_info.php:35
+msgid "Date & Time"
+msgstr ""
+
+#: partials/content/stm_events/single/_details-2.php:16
+#: partials/content/stm_events/single/_join.php:11
+msgid "Join now"
+msgstr ""
+
+#: partials/content/stm_events/single/_details.php:25
+msgid "Venue"
+msgstr ""
+
+#: partials/content/stm_events/single/_details.php:47
+msgid "Time:"
+msgstr ""
+
+#: partials/content/stm_events/single/_details.php:54
+msgid "Categories:"
+msgstr ""
+
+#: partials/content/stm_events/single/_join_2.php:11
+msgid "Book Now"
+msgstr ""
+
+#: partials/content/stm_events/single/_join_form.php:11
+#: partials/content/stm_events/single/_join_form_2.php:11
+msgid "You already joined the event"
+msgstr ""
+
+#: partials/content/stm_events/single/_join_form.php:22
+#: partials/content/stm_events/single/_join_form.php:63
+msgid "Join the event"
+msgstr ""
+
+#: partials/content/stm_events/single/_join_form.php:28
+msgid "Name *"
+msgstr ""
+
+#: partials/content/stm_events/single/_join_form.php:35
+msgid "Email *"
+msgstr ""
+
+#: partials/content/stm_events/single/_join_form.php:51
+#: partials/content/stm_events/single/_join_form_2.php:51
+msgid "Company name"
+msgstr ""
+
+#: partials/content/stm_events/single/_join_form.php:58
+#: partials/content/stm_events/single/_join_form_2.php:58
+msgid "I agree with the all additional Terms and Conditions"
+msgstr ""
+
+#: partials/content/stm_events/single/_join_form_2.php:22
+msgid "Online Booking"
+msgstr ""
+
+#: partials/content/stm_events/single/_join_form_2.php:28
+msgid "Your Name *"
+msgstr ""
+
+#: partials/content/stm_events/single/_join_form_2.php:35
+msgid "Email address *"
+msgstr ""
+
+#: partials/content/stm_events/single/_join_form_2.php:63
+msgid "Book now"
+msgstr ""
+
+#: partials/content/stm_media_events/layouts/layout_1.php:58
+msgid "Watch"
+msgstr ""
+
+#: partials/content/stm_media_events/layouts/layout_1.php:66
+msgid "Listen"
+msgstr ""
+
+#: partials/content/stm_media_events/layouts/layout_1.php:87
+msgid "Download"
+msgstr ""
+
+#: partials/content/stm_media_events/single/_speaker.php:32
+msgid "Speaker"
+msgstr ""
+
+#: partials/content/stm_services/layouts/layout_2.php:28
+msgid "Item details"
+msgstr ""
+
+#: partials/content/stm_services/layouts/layout_2.php:43
+msgid "Features"
+msgstr ""
+
+#: partials/content/stm_services/layouts/layout_2.php:57
+msgid "Request a Call back"
+msgstr ""
+
+#: partials/content/stm_services/layouts/layout_2.php:77
+msgid "or call us"
+msgstr ""
+
+#: partials/content/stm_vacancies/single/_button.php:8
+#: partials/content/stm_vacancies/single/_button.php:9
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: partials/content/stm_vacancies/single/_details.php:4
+msgid "Department:"
+msgstr ""
+
+#: partials/content/stm_vacancies/single/_details.php:5
+msgid "Project Location(s):"
+msgstr ""
+
+#: partials/content/stm_vacancies/single/_details.php:6
+msgid "Job Type:"
+msgstr ""
+
+#: partials/content/stm_vacancies/single/_details.php:7
+msgid "Education:"
+msgstr ""
+
+#: partials/content/stm_vacancies/single/_details.php:8
+msgid "Compensation:"
+msgstr ""
+
+#: partials/header/elements/cart/mini-cart.php:41
+msgid "No products in the cart."
+msgstr ""
+
+#: partials/header/elements/cart/mini-cart.php:45
+msgid "Subtotal"
+msgstr ""
+
+#: partials/header/elements/cart/mini-cart.php:49
+msgid "Checkout"
+msgstr ""
+
+#: partials/header/elements/cart/mini-cart.php:51
+msgid "View cart"
+msgstr ""
+
+#: partials/header/elements/cart/quantity_with_text.php:2
+#, php-format
+msgid "%d item in Cart"
+msgid_plural "%d items in Cart"
+msgstr[0] ""
+msgstr[1] ""
+
+#: partials/header/elements/signin/signin.php:4
+msgid "My account"
+msgstr ""
+
+#: partials/header/elements/signin/signin.php:7
+msgid "Login / Register"
+msgstr ""
+
+#: partials/header/elements/socials/socials.php:28
+msgid "Follow"
+msgstr ""
+
+#: partials/vc_parts/stm_staff/grid/style_1.php:39
+#: partials/vc_parts/stm_staff/grid/style_3.php:39
+#: partials/vc_parts/stm_staff/grid/style_4.php:29
+#: partials/vc_parts/stm_staff/grid/style_5.php:30
+#: partials/vc_parts/stm_staff/list/style_1.php:32
+#: partials/vc_parts/stm_staff/list/style_3.php:32
+#: partials/vc_parts/stm_staff/list/style_4.php:34
+#: partials/vc_parts/stm_staff/list/style_5.php:46
+#: partials/vc_parts/stm_staff/list/style_6.php:77
+msgid "View full Information"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/envato-market.php:157
+#: includes/admin/product_registration/includes/envato-market/envato-market.php:167
+#: includes/admin/product_registration/includes/envato-market/inc/api.php:80
+#: includes/admin/product_registration/includes/envato-market/inc/api.php:90
+#: includes/admin/product_registration/includes/envato-market/inc/github.php:87
+#: includes/admin/product_registration/includes/envato-market/inc/github.php:97
+#: includes/admin/product_registration/includes/envato-market/inc/items.php:100
+#: includes/admin/product_registration/includes/envato-market/inc/items.php:110
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:77
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:87
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: partials/content/post/archive_layouts/grid/style_1.php:5
+#: partials/content/post/archive_layouts/grid/style_10.php:5
+#: partials/content/post/archive_layouts/list/style_1.php:11
+msgid "Sticky"
+msgstr ""
+
+#: partials/content/post/archive_layouts/list/style_2.php:27
+msgid "Category: "
+msgstr ""
+
+#: partials/content/post/archive_layouts/list/style_4.php:39
+msgid "Posted by: "
+msgstr ""
+
+#: partials/content/stm_stories/single/parts/_before_after.php:22
+msgid "Before"
+msgstr ""
+
+#: partials/content/stm_stories/single/parts/_before_after.php:32
+msgid "After"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/api.php:128
+msgid "An API token is required."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/api.php:141
+#: includes/admin/product_registration/includes/envato-market/inc/api.php:145
+msgid "An unknown API error occurred."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/github.php:294
+#, php-format
+msgid ""
+"%sActivate the Envato Market plugin%s to get updates for your ThemeForest "
+"and CodeCanyon items."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/github.php:305
+#, php-format
+msgid ""
+"%sInstall the Envato Market plugin%s to get updates for your ThemeForest and "
+"CodeCanyon items."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:204
+msgid "You do not have sufficient permissions to delete transients."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:349
+msgid "Save"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:350
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:351
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:352
+msgid "An unknown error occurred. Try again."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:372
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/partials/settings.php:19
+msgid "Test API Connection"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:377
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/items.php:22
+msgid "ID"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:379
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:327
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/items.php:24
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:390
+msgid "Remove Item"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:391
+msgid ""
+"You are about to remove the connection between the Envato Market API and "
+"this item. You cannot undo this action."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:396
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/items.php:37
+msgid "Add Item"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:399
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:473
+msgid "Token"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:401
+msgid "Enter the Envato API Personal Token."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:402
+msgid "Item ID"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:404
+msgid "Enter the Envato Item ID."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:427
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:886
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:922
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:189
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:189
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:395
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:395
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:427
+msgid "Version"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:465
+msgid "Global OAuth Personal Token"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:482
+msgid "Single Use OAuth Personal Tokens"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:490
+msgid "Envato Market Items"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:756
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:781
+msgid "Installing Plugin..."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:757
+msgid "You do not have sufficient permissions to install plugins on this site."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:758
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:783
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:841
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:118
+msgid "Return to Plugin Installer"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:782
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:840
+msgid "An error occurred, please check that the item ID is correct."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:788
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:814
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:839
+msgid "Installing Theme..."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:815
+msgid "You do not have sufficient permissions to install themes on this site."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:816
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:68
+msgid "Return to Theme Installer"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:848
+#, php-format
+msgid "Installing Theme: %s"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:890
+msgid "You do not have sufficient permissions to update themes for this site."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:932
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:957
+msgid "The Token is missing."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:959
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:1054
+msgid "The Item ID is missing."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:970
+msgid "The Token or Item ID is incorrect."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:974
+msgid "The item cannot be downloaded."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/admin.php:1037
+msgid "An unknown error occurred."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:70
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:171
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:282
+#, php-format
+msgid "Update %s now"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:74
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:175
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:287
+msgid "Update Available"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:89
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:295
+#, php-format
+msgid "View version %1$s details."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:104
+msgid "Customize"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:104
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:114
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:58
+msgid "Site Enable"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:114
+#, php-format
+msgid "Site Enable &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:118
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:62
+msgid "Network Enable"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:118
+#, php-format
+msgid "Network Enable &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:131
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:66
+#, php-format
+msgid "Activate &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:138
+msgid "Live Preview"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:138
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:53
+#, php-format
+msgid "Live Preview &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:152
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:377
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:164
+msgid "Changelog"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:314
+msgid "Deactivate"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:315
+#, php-format
+msgid "Deactivate %s"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:328
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:342
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:352
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:110
+msgid "Site Activate"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:353
+#, php-format
+msgid "Site Activate %s"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:360
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:114
+msgid "Network Activate"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/functions.php:361
+#, php-format
+msgid "Network Activate %s"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader-skins.php:103
+msgid "Activate Plugin"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:34
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:72
+msgid "Downloading the Envato Market upgrade package&#8230;"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:45
+#: includes/admin/product_registration/includes/envato-market/inc/admin/upgrader.php:83
+msgid "Downloading the Envato Market install package&#8230;"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/notice/error-single-use.php:11
+msgid ""
+"One or more Single Use OAuth Personal Tokens could not be verified and "
+"should be removed."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/notice/error.php:11
+msgid ""
+"The OAuth Personal Token could not be verified. Please check that the Token "
+"has been entered correctly and has the minimum required permissions."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/notice/success-no-items.php:11
+msgid ""
+"Your OAuth Personal Token has been verified. However, there are no WordPress "
+"downloadable items in your account."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/notice/success-single-use.php:11
+msgid "All Single Use OAuth Personal Tokens have been verified."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/notice/success.php:11
+msgid "Your OAuth Personal Token has been verified."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:12
+msgid "Envato Market"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:13
+msgid "Welcome!"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:14
+msgid ""
+"This plugin can install WordPress themes and plugins purchased from "
+"ThemeForest & CodeCanyon by connecting with the Envato Market API using a "
+"secure OAuth personal token. Once your themes & plugins are installed "
+"WordPress will periodically check for updates, so keeping your items up to "
+"date is as simple as a few clicks."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:15
+msgid ""
+"You can add a global token to connect all your items from your account, "
+"and/or connect directly with a specific item using a singe-use token & item "
+"ID. When the global token and single-use token are set for the same item, "
+"the single-use token will be used to communicate with the API."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/partials/intro.php:18
+msgid "Active Theme"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/partials/settings.php:17
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/partials/tabs.php:28
+msgid "Themes"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/partials/tabs.php:45
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/items.php:10
+msgid ""
+"Add Envato Market themes & plugins using multiple OAuth tokens. This is "
+"especially useful when an item has been purchased on behalf of a third-party."
+" This works similarly to the global OAuth Personal Token, but for individual "
+"items and additionally requires the Envato Market item ID."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/items.php:12
+msgid "Warning: These tokens can be revoked by the account holder at any time."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/oauth.php:10
+msgid ""
+"OAuth is a protocol that lets external apps request authorization to private "
+"details in a user's Envato Market account without entering their password. "
+"This is preferred over Basic Authentication because tokens can be limited to "
+"specific types of data, and can be revoked by users at any time."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/oauth.php:12
+#, php-format
+msgid "You will need to %s, and then insert it below."
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/callback/section/oauth.php:12
+msgid "generate a personal token"
+msgstr ""
+
+#: includes/admin/product_registration/includes/envato-market/inc/admin/view/callback/setting/token.php:12
+msgid "Enter your Envato API Personal Token."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Pearl WP is a true multi-niche WordPress theme, which consist of several "
+"micro-niche themes. Each micro-niche layout has its own features, modules "
+"and specifications. You can use UI modules from any layout and mix it with "
+"other UI modules. 300+ UI modules and 250+ prebuilt pages are available for "
+"use. Open the shell and find the Pearl!"
+msgstr ""
+
+#. URI of the theme
+msgid "http://pearl.stylemixthemes.com/"
+msgstr ""
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://stylemixthemes.com/"
+msgstr ""

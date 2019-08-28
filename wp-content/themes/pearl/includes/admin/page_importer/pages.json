@@ -1,0 +1,70 @@
+{
+    "layouts": {
+        "Business": [
+            {
+                "name": "Home page",
+                "value": "home_page"
+            },
+            {
+                "name": "Appointments",
+                "value": "appointments"
+            },
+            {
+                "name": "Careers",
+                "value": "careers"
+            },
+            {
+                "name": "Single Vacancy",
+                "value": "single_vacancy"
+            },
+            {
+                "name": "About",
+                "value": "about"
+            },
+            {
+                "name": "Our team",
+                "value": "our_team"
+            },
+            {
+                "name": "Mission",
+                "value": "mission"
+            },
+            {
+                "name": "Our history",
+                "value": "our_history"
+            },
+            {
+                "name": "Events",
+                "value": "events"
+            },
+            {
+                "name": "Single event",
+                "value": "single_event"
+            },
+            {
+                "name": "Services",
+                "value": "services"
+            },
+            {
+                "name": "Single Service",
+                "value": "single_service"
+            },
+            {
+                "name": "Contacts",
+                "value": "contacts"
+            },
+            {
+                "name": "News",
+                "value": "news"
+            },
+            {
+                "name": "Single news",
+                "value": "single_news"
+            },
+            {
+                "name": "Cases",
+                "value": "news"
+            }
+        ]
+    }
+}

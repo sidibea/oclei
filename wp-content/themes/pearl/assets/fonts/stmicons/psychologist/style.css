@@ -1,0 +1,269 @@
+@font-face {
+  font-family: 'stmicons';
+  src:  url('fonts/stmicons.eot?a18ibt');
+  src:  url('fonts/stmicons.eot?a18ibt#iefix') format('embedded-opentype'),
+    url('fonts/stmicons.ttf?a18ibt') format('truetype'),
+    url('fonts/stmicons.woff?a18ibt') format('woff'),
+    url('fonts/stmicons.svg?a18ibt#stmicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="stmicon-"], [class*=" stmicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'stmicons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.stmicon-psychologist-head-1 .path1:before {
+  content: "\10ffea";
+  color: rgb(235, 237, 247);
+}
+.stmicon-psychologist-head-1 .path2:before {
+  content: "\10ffeb";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-1 .path3:before {
+  content: "\10ffec";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-1 .path4:before {
+  content: "\10ffed";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-1 .path5:before {
+  content: "\10ffee";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-1 .path6:before {
+  content: "\10ffef";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-1 .path7:before {
+  content: "\10fff0";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-1 .path8:before {
+  content: "\10fff1";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-1 .path9:before {
+  content: "\10fff2";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-1 .path10:before {
+  content: "\10fff3";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-1 .path11:before {
+  content: "\10fff4";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-1 .path12:before {
+  content: "\10fff5";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-1 .path13:before {
+  content: "\10fff6";
+  margin-left: -0.81640625em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path1:before {
+  content: "\10fff7";
+  color: rgb(235, 237, 247);
+}
+.stmicon-psychologist-head-2 .path2:before {
+  content: "\10fff8";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path3:before {
+  content: "\10fff9";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path4:before {
+  content: "\10fffa";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path5:before {
+  content: "\10fffb";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path6:before {
+  content: "\10fffc";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path7:before {
+  content: "\10fffd";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path8:before {
+  content: "\10fffe";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path9:before {
+  content: "\10ffff";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path10:before {
+  content: "\110000";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path11:before {
+  content: "\110001";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path12:before {
+  content: "\110002";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path13:before {
+  content: "\110003";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-2 .path14:before {
+  content: "\110004";
+  margin-left: -0.96484375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-3 .path1:before {
+  content: "\110005";
+  color: rgb(235, 237, 247);
+}
+.stmicon-psychologist-head-3 .path2:before {
+  content: "\110006";
+  margin-left: -0.912109375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-3 .path3:before {
+  content: "\110007";
+  margin-left: -0.912109375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-3 .path4:before {
+  content: "\110008";
+  margin-left: -0.912109375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-3 .path5:before {
+  content: "\110009";
+  margin-left: -0.912109375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-3 .path6:before {
+  content: "\11000a";
+  margin-left: -0.912109375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-3 .path7:before {
+  content: "\11000b";
+  margin-left: -0.912109375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-3 .path8:before {
+  content: "\11000c";
+  margin-left: -0.912109375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-head-3 .path9:before {
+  content: "\11000d";
+  margin-left: -0.912109375em;
+  color: rgb(51, 51, 51);
+}
+.stmicon-psychologist-map-pin-o:before {
+  content: "\11000e";
+}
+.stmicon-psychologist-map-pin:before {
+  content: "\11000f";
+}
+.stmicon-psychologist-message:before {
+  content: "\110010";
+}
+.stmicon-subject:before {
+  content: "\110011";
+}
+.stmicon-fax2:before {
+  content: "\110012";
+}
+.stmicon-psychologist-zoom:before {
+  content: "\110013";
+}
+.stmicon-psychologist-user:before {
+  content: "\110014";
+}
+.stmicon-psychologist-paper-plane:before {
+  content: "\110015";
+}
+.stmicon-location:before {
+  content: "\110016";
+}
+.stmicon-grid-world:before {
+  content: "\110017";
+}
+.stmicon-share:before {
+  content: "\110018";
+}
+.stmicon-psychologist_chevron-left:before {
+  content: "\110019";
+}
+.stmicon-psychologist_chevron-right:before {
+  content: "\11001a";
+}
+.stmicon-psychologist_clock:before {
+  content: "\11001b";
+}
+.stmicon-psychologist_envelope:before {
+  content: "\11001c";
+}
+.stmicon-psychologist_envelope2:before {
+  content: "\11001d";
+}
+.stmicon-psychologist_minus:before {
+  content: "\11001e";
+}
+.stmicon-psychologist_pencil:before {
+  content: "\11001f";
+}
+.stmicon-psychologist_calendar:before {
+  content: "\110020";
+}
+.stmicon-plus:before {
+  content: "\110021";
+}
+.stmicon-phone:before {
+  content: "\110022";
+}
+.stmicon-mail_outline:before {
+  content: "\110023";
+}
